@@ -1,0 +1,458 @@
+_id,school,shirt,demographic,first,year,age,gender,major,conduct,travel,status,going,checked,door,dietary,probable,created
+{'$oid': '5b7cb10862d02b4559dc5dfa'},Kent State,L,True,False,Senior,21.0,Male,Computer Science,True,False,approved,True,True,False,['Vegetarian'],False,{'$date': '2018-08-22T00:40:40.673Z'}
+{'$oid': '5b7cb12762d02b4559dc5dfc'},Kent State University,M,True,False,Senior,21.0,Male,Computer Science,True,False,approved,True,True,False,['Vegetarian'],False,{'$date': '2018-08-22T00:41:11.681Z'}
+{'$oid': '5b7cb13d62d02b4559dc5dfe'},Kent State University at Kent,M,True,False,Senior,20.0,male,Computer Science,True,,approved,True,True,False,[],False,{'$date': '2018-08-22T00:41:33.490Z'}
+{'$oid': '5b7cbf051dbb31145ede94e0'},ksuu,L,True,False,freshman,222.0,female,22,True,,pending,False,False,False,[''],False,{'$date': '2018-08-22T01:40:21.002Z'}
+{'$oid': '5b7da5f80834ab5874af8478'},as;dlfkja,L,True,True,freshman,18.0,female,cs,True,True,pending,False,False,False,['kosher'],False,{'$date': '2018-08-22T18:05:44.028Z'}
+{'$oid': '5b7da6830834ab5874af847c'},3;laksdjf,L,True,True,high school,123.0,preferNotToSay,4,True,False,pending,False,False,False,['vegan'],False,{'$date': '2018-08-22T18:08:03.047Z'}
+{'$oid': '5b7daa940834ab5874af84c2'},Kent State University,M,True,False,senior,20.0,male,Computer Science,True,False,pending,False,False,False,[''],False,{'$date': '2018-08-22T18:25:24.543Z'}
+{'$oid': '5b7df4d10834ab5874af84d0'},Kent State University,M,True,False,junior,20.0,male,Digital Science,True,False,pending,False,False,False,[''],False,{'$date': '2018-08-22T23:42:09.924Z'}
+{'$oid': '5b7e1e690834ab5874af84d4'},Kent State University at Stark,XL,True,False,sophomore,19.0,male,Computer Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-08-23T02:39:37.061Z'}
+{'$oid': '5b7eb5c60834ab5874af84d8'},lkajsdlkfj,L,True,True,freshman,33.0,other,12,True,False,pending,False,False,False,['kosher'],False,{'$date': '2018-08-23T13:25:26.180Z'}
+{'$oid': '5b7ed0af0834ab5874af84dc'},American U,M,True,True,junior,19.0,male,CS,True,False,pending,False,False,False,['vegan'],False,{'$date': '2018-08-23T15:20:15.602Z'}
+{'$oid': '5b7ef4a6f5e8b2da271e8b35'},University of Washington Seattle,M,True,True,junior,20.0,female,Computer Science,True,True,approved,False,False,False,['vegan'],False,{'$date': '2018-08-23T17:53:42.819Z'}
+{'$oid': '5b7efb58c1270d46286043e7'},The University of Western Ontario,XXL,True,False,junior,19.0,male,Computer Engineering,True,True,approved,False,False,False,[''],False,{'$date': '2018-08-23T18:22:16.454Z'}
+{'$oid': '5b7f03d4d233ba5d281ce4a3'},gabe,S,True,True,high school,15.0,male,ca,True,False,pending,False,False,False,['vegitarian'],False,{'$date': '2018-08-23T18:58:28.026Z'}
+{'$oid': '5b7f080ca34275be2a631209'},kent,S,True,True,graduate,18.0,male,c,True,True,pending,False,False,False,['kosher'],False,{'$date': '2018-08-23T19:16:28.234Z'}
+{'$oid': '5b7f0dfaa34275be2a631212'},test,XXL,True,True,other,20.0,male,test,True,False,pending,False,False,False,['kosher'],False,{'$date': '2018-08-23T19:41:46.397Z'}
+{'$oid': '5b7f0e70a34275be2a631216'},test,M,True,True,high school,123.0,other,test,True,True,pending,False,False,False,['vegitarian'],False,{'$date': '2018-08-23T19:43:44.337Z'}
+{'$oid': '5b7f35c17abb8dab31a78f90'},Dalhousie University,L,True,False,senior,22.0,female,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-08-23T22:31:29.304Z'}
+{'$oid': '5b7f772bc97cbae13a4142fd'},California State University San Marcos,M,True,False,sophomore,19.0,male,Computer Science,True,True,approved,False,False,False,[],False,{'$date': '2018-08-24T03:10:35.493Z'}
+{'$oid': '5b7fb5012343fc28418cffff'},Guru Nanak Public School,M,True,True,high school,16.0,male,Science,True,True,approved,True,False,False,[],False,{'$date': '2018-08-24T07:34:25.527Z'}
+{'$oid': '5b800b2e2343fc28418d0004'},Jaypee University of Engineering and Technology,M,True,True,senior,23.0,male,Computer Science and Engineering,True,True,approved,False,False,False,[''],False,{'$date': '2018-08-24T13:42:06.578Z'}
+{'$oid': '5b80317eb2d5c43f50f5214a'},University of Texas at Dallas,M,True,False,sophomore,18.0,female,Computer Science,True,True,approved,False,False,False,['vegitarian'],False,{'$date': '2018-08-24T16:25:34.288Z'}
+{'$oid': '5b806b1cb2d5c43f50f5214f'},American InterContinental University,XXL,True,False,senior,30.0,female,Science in Information Technology,True,False,approved,False,False,False,[''],False,{'$date': '2018-08-24T20:31:24.213Z'}
+{'$oid': '5b80758fedc0735558625c1d'},University of Waterloo,S,True,True,freshman,18.0,female,Software Engineering,True,True,approved,False,False,False,[''],False,{'$date': '2018-08-24T21:15:59.377Z'}
+{'$oid': '5b80917e2f0028fa5a7b85a4'},The University of Waterloo,M,True,False,sophomore,19.0,male,Computer Science and Business Administration Double Degree,True,True,approved,False,False,False,[],False,{'$date': '2018-08-24T23:15:10.679Z'}
+{'$oid': '5b80ca0b1bf5b26e603a9faa'},University of Michigan,M,True,True,junior,20.0,male,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-08-25T03:16:27.082Z'}
+{'$oid': '5b81586845ed27376f44d04f'},Stony Brook University,L,True,True,graduate,26.0,male,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-08-25T13:23:52.379Z'}
+{'$oid': '5b8182646254abbc735e7315'},Towson University,L,True,False,senior,24.0,male,Computer Science,True,False,approved,True,False,False,[],False,{'$date': '2018-08-25T16:23:00.249Z'}
+{'$oid': '5b81f69334d939c403e3d813'},Stanford University,M,True,True,sophomore,21.0,female,Symbolic Systems - Cognitive Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-08-26T00:38:43.915Z'}
+{'$oid': '5b821ed834d939c403e3d817'},University of Toledo and Lorain County Community College,M,True,False,sophomore,19.0,male,Computer Science and Engineering,True,False,approved,True,True,False,[],False,{'$date': '2018-08-26T03:30:32.105Z'}
+{'$oid': '5b8309602780c96b2088b00a'},Hinsdale Central High School,M,True,False,high school,17.0,female,High Schooler,True,True,approved,False,False,False,[''],False,{'$date': '2018-08-26T20:11:12.825Z'}
+{'$oid': '5b8416580f9afd32455067fa'},CUNY Brooklyn College,XXL,True,False,senior,22.0,female,Computer Science,True,True,approved,False,False,False,[],False,{'$date': '2018-08-27T15:18:48.636Z'}
+{'$oid': '5b841b70ce13a1f0451e9e91'},Oakland University,L,True,False,junior,23.0,male,Computer Science,True,False,approved,False,False,False,[''],False,{'$date': '2018-08-27T15:40:32.815Z'}
+{'$oid': '5b843542ce13a1f0451e9e95'},Youngstown State University,M,True,False,junior,18.0,female,Computer Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-08-27T17:30:42.555Z'}
+{'$oid': '5b845ee77f4160bb48674175'},University of Waterloo,XL,True,False,sophomore,19.0,male,Computer Science ,True,True,approved,False,False,False,[''],False,{'$date': '2018-08-27T20:28:23.676Z'}
+{'$oid': '5b847ff8d3a50c1c4adcdea1'},Florida International University,S,True,False,junior,21.0,female,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-08-27T22:49:28.972Z'}
+{'$oid': '5b84926dd3a50c1c4adcdea5'},Kent State University,S,True,False,sophomore,19.0,female,Computer Science,True,False,approved,False,False,False,[''],False,{'$date': '2018-08-28T00:08:13.912Z'}
+{'$oid': '5b84935fc173120f4be933f2'},Kent State University,M,True,True,junior,19.0,male,Computer Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-08-28T00:12:15.559Z'}
+{'$oid': '5b84a6772987c1914b022bae'},SRM University,XL,True,True,senior,21.0,male,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-08-28T01:33:43.911Z'}
+{'$oid': '5b855dfc5f73078c5dad5c9b'},Indiana University Bloomington,M,True,True,junior,20.0,female,Informatics ,True,True,approved,False,False,False,[''],False,{'$date': '2018-08-28T14:36:44.636Z'}
+{'$oid': '5b858abc5bdc83cc5f7501b8'},Kent State University,M,True,True,sophomore,20.0,male,Information Technology,True,False,approved,False,False,False,[''],False,{'$date': '2018-08-28T17:47:40.765Z'}
+{'$oid': '5b85a6a8a8128c1d64cbcab4'},SRM University,M,True,False,senior,20.0,male,Computer Science,True,True,approved,False,False,False,['vegitarian'],False,{'$date': '2018-08-28T19:46:48.047Z'}
+{'$oid': '5b85da08a8128c1d64cbcac1'},Kent State University,M,True,False,freshman,19.0,male,Computer Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-08-28T23:26:00.591Z'}
+{'$oid': '5b85da5fa8128c1d64cbcac5'},Kent State University,M,True,False,junior,20.0,male,Computer Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-08-28T23:27:27.572Z'}
+{'$oid': '5b85e80ca8128c1d64cbcacb'},Kent State University,M,True,False,sophomore,19.0,male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-08-29T00:25:48.543Z'}
+{'$oid': '5b85e85fa8128c1d64cbcacd'},Kent State University,L,True,False,graduate,25.0,male,Computer Science,True,True,approved,True,True,False,[],False,{'$date': '2018-08-29T00:27:11.931Z'}
+{'$oid': '5b8606a113d6ea317310dccb'},Kent state,XXL,True,True,graduate,33.0,Prefer not to say,333,True,True,pending,False,False,False,['glutenalsdkjfdadfaf'],False,{'$date': '2018-08-29T02:36:17.929Z'}
+{'$oid': '5b8606a113d6ea317310dccc'},Kent state,XXL,True,True,graduate,33.0,Prefer not to say,333,True,True,pending,False,False,False,['glutenalsdkjfdadfaf'],False,{'$date': '2018-08-29T02:36:17.940Z'}
+{'$oid': '5b8608e91655238978b18d59'},kent state,L,True,True,Other field in school!,111.0,Other gender,CS,True,True,pending,False,False,False,['vegetarian!'],False,{'$date': '2018-08-29T02:46:01.857Z'}
+{'$oid': '5b860a501655238978b18d5b'},;alskdfj,M,True,True,High School,111.0,Male,1111,True,True,pending,False,False,False,['vegetarian'],False,{'$date': '2018-08-29T02:52:00.968Z'}
+{'$oid': '5b860a501655238978b18d5d'},;alskdfj,M,True,True,High School,111.0,Male,1111,True,True,pending,False,False,False,['vegetarian'],False,{'$date': '2018-08-29T02:52:00.987Z'}
+{'$oid': '5b860f9fbd4beab47a9733f4'},University of Louisiana at Monroe,M,True,True,Junior,22.0,Male,Computer Science,True,True,approved,False,False,False,['NO'],False,{'$date': '2018-08-29T03:14:39.547Z'}
+{'$oid': '5b8613a664a5704b7b2b9435'},University of Pittsburgh,L,True,True,Sophomore,19.0,Male,Computer Science,True,False,approved,False,False,False,[''],False,{'$date': '2018-08-29T03:31:50.976Z'}
+{'$oid': '5b86bd84084cba5309e2aa31'},University of Florida,S,True,False,Senior,20.0,Female,Computer Engineering,True,True,approved,False,False,False,[''],False,{'$date': '2018-08-29T15:36:36.725Z'}
+{'$oid': '5b86f91d78a236dc0c3e82c7'},Amity University,L,True,True,Senior,19.0,Male,Computer Science and Engineering,True,True,approved,False,False,False,['vegan'],False,{'$date': '2018-08-29T19:50:53.346Z'}
+{'$oid': '5b8702bb2e05a97c0dfa3e74'},University of Pittsburgh,L,True,False,Senior,21.0,Male,Computer Science,True,True,approved,True,True,False,[],False,{'$date': '2018-08-29T20:31:55.191Z'}
+{'$oid': '5b8708ee34c0a8d60d4b3471'},Community College of Allegheny County,M,True,False,Freshman,18.0,Male,Computer Science,True,False,approved,False,False,False,[''],False,{'$date': '2018-08-29T20:58:22.288Z'}
+{'$oid': '5b874ba316c7a5d010128a65'},Cairo University,M,True,True,Junior,20.0,Female,Computer Engineering,True,True,approved,False,False,False,['Halal food '],False,{'$date': '2018-08-30T01:42:59.865Z'}
+{'$oid': '5b874c9505d1c6f610af734b'},University of Michigan,M,True,False,Senior,20.0,Male,Cell and Molecular Biology,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-08-30T01:47:01.205Z'}
+{'$oid': '5b87bee4483a0f701410f1a4'},"Indian Institute of Information Technology, Sri City",L,True,False,Graduate,20.0,Male,Computer Science,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-08-30T09:54:44.243Z'}
+{'$oid': '5b87fcb25767e91218f22ded'},The University of Akron,M,True,False,Senior,21.0,Male,Computer Engineering,True,False,approved,True,True,False,[],False,{'$date': '2018-08-30T14:18:26.751Z'}
+{'$oid': '5b8808155767e91218f22df1'},Kent State university,L,True,False,Junior,20.0,Male,Computer Science,True,False,approved,True,True,False,['vegetarian'],False,{'$date': '2018-08-30T15:07:01.340Z'}
+{'$oid': '5b885cba734525511f07383c'},UC Berkeley,S,True,False,Sophomore,18.0,Female,Electrical Engineering and Computer Science,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-08-30T21:08:10.204Z'}
+{'$oid': '5b886aed734525511f073840'},Kent State University,L,True,True,Senior,21.0,Male,Computer Science,True,False,approved,False,False,False,[''],False,{'$date': '2018-08-30T22:08:45.545Z'}
+{'$oid': '5b888167f6a7f8bf22c2d292'},Kent State University,L,True,False,Senior,21.0,Male,CS,True,False,approved,False,True,False,['Allergies to Nuts and eggs'],False,{'$date': '2018-08-30T23:44:39.954Z'}
+{'$oid': '5b88913fc1bbdbe7228e8caf'},university of cincinnati,L,True,True,Junior,21.0,Male,information systems,True,True,approved,False,False,False,[''],False,{'$date': '2018-08-31T00:52:15.846Z'}
+{'$oid': '5b88a3402b6a287127b6345f'},Central Methodist University/Kent State University,M,True,True,Senior,24.0,Female,Computer Science/Accounting/Psychology/Statistics ,True,False,approved,False,False,False,['Allergic to Mushrooms '],False,{'$date': '2018-08-31T02:09:04.206Z'}
+{'$oid': '5b88aee92b6a287127b63463'},Kent State University,L,True,False,Junior,19.0,Male,Computer Science,True,False,approved,True,False,False,[],False,{'$date': '2018-08-31T02:58:49.688Z'}
+{'$oid': '5b89eaef53e059163f62f646'},"University of California, Los Angeles",S,True,False,Junior,20.0,Male,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-01T01:27:11.806Z'}
+{'$oid': '5b8a4637eac27fb344b3feed'},White Oaks Secondary School,XL,True,False,High School,16.0,Male,High School Diploma/IB Diploma,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-01T07:56:39.520Z'}
+{'$oid': '5b8b393f10090e7351146ca9'},The University of Guelph,M,True,False,Sophomore,19.0,Female,Computer Science,True,False,approved,False,False,False,[''],False,{'$date': '2018-09-02T01:13:35.154Z'}
+{'$oid': '5b8b45161e89258d52e23e36'},"University of California, Santa Barbara",M,True,False,Junior,20.0,Male,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-02T02:04:06.346Z'}
+{'$oid': '5b8c191eb6a5b59266147aa1'},American Univrsity of Armenia ,S,True,False,Senior,20.0,Male,Computer Science,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-09-02T17:08:46.465Z'}
+{'$oid': '5b8c79abb46a83996ea55023'},The University of Texas at Dallas,S,True,False,Sophomore,18.0,Male,Computer Science,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-09-03T00:00:43.984Z'}
+{'$oid': '5b8d7b6bb46a83996ea55029'},Kent State University,XL,True,False,Graduated,25.0,Male,Computer Science,True,False,approved,False,True,False,['gluten'],False,{'$date': '2018-09-03T18:20:27.824Z'}
+{'$oid': '5b8d8c9f8642c55c7a2c1765'},Youngstown State University,L,True,False,Senior,23.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-09-03T19:33:51.097Z'}
+{'$oid': '5b8d8ed6407c18f17ad24423'},Oberlin College,M,True,False,Junior,20.0,Male,Mathematics & Physics (Material Science),True,True,approved,False,False,False,[],False,{'$date': '2018-09-03T19:43:18.775Z'}
+{'$oid': '5b8d8eef407c18f17ad24425'},None,M,True,False,Mentor,23.0,Male,None,True,False,approved,False,True,False,[''],False,{'$date': '2018-09-03T19:43:43.498Z'}
+{'$oid': '5b8d9204407c18f17ad24429'},Kent State University,M,True,False,Junior,25.0,Male,Digital Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-09-03T19:56:52.153Z'}
+{'$oid': '5b8d9c8a3e81538f7be54daf'},Kent State University,M,True,False,Senior,21.0,Female,Fashion Merchandising,True,False,approved,True,True,False,[],False,{'$date': '2018-09-03T20:41:46.779Z'}
+{'$oid': '5b8dd3433e81538f7be54db3'},Youngstown State University,XL,True,False,Junior,21.0,Male,Computer information systems,True,False,approved,False,True,False,[],False,{'$date': '2018-09-04T00:35:15.210Z'}
+{'$oid': '5b8df5243e81538f7be54db7'},Pennsylvania State University,M,True,False,Graduate,21.0,Male,Computer Science,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-09-04T02:59:48.671Z'}
+{'$oid': '5b8df74e6f53c6000243341f'},Purdue University,S,True,False,Graduate,18.0,Female,Comp Sci,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-09-04T03:09:02.961Z'}
+{'$oid': '5b8e3d89e17e9d4905f20751'},Georgia Institute of Technology,M,True,True,Sophomore,19.0,Male,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-04T08:08:41.684Z'}
+{'$oid': '5b8ea87e86d3561512fd85d2'},University of Pittsburgh,M,True,False,Senior,21.0,Male,Computer Science,True,False,pending,False,False,False,[''],False,{'$date': '2018-09-04T15:45:02.701Z'}
+{'$oid': '5b8ea87e86d3561512fd85d4'},University of Pittsburgh,M,True,False,Senior,21.0,Male,Computer Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-09-04T15:45:02.765Z'}
+{'$oid': '5b8eb4f2cd595cd912255300'},Kent State University,L,True,True,Junior,21.0,Female,Pure Mathematics and Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-09-04T16:38:10.585Z'}
+{'$oid': '5b8ef1661e5b94011ab9298e'},University of Waterloo,S,True,False,Junior,20.0,Male,Computer Science and Business Administration,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-04T20:56:06.563Z'}
+{'$oid': '5b8f24c4f937aa321b3cc4a2'},Kent State University ,M,True,True,Sophomore,19.0,Male,Criminal Justice ,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-05T00:35:16.656Z'}
+{'$oid': '5b8f26d47eca3ccf20228b9f'},Kent State University (at Kent),M,True,True,Freshman,18.0,Male,Computer Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-09-05T00:44:04.294Z'}
+{'$oid': '5b8f2bef7eca3ccf20228ba3'},Kent State University,S,True,False,Senior,25.0,Female,Computer Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-09-05T01:05:51.039Z'}
+{'$oid': '5b8f517baf195c6523f71f44'},North Carolina State University,S,True,True,Graduate,23.0,Male,Computer Science,True,True,approved,False,False,False,[],False,{'$date': '2018-09-05T03:46:03.666Z'}
+{'$oid': '5b8fe217af195c6523f71f48'},University Of Maryland,M,True,False,Senior,23.0,Male,Computer Science / Cyber Security,True,True,approved,True,False,False,['nope!'],False,{'$date': '2018-09-05T14:03:03.030Z'}
+{'$oid': '5b8ff58daf195c6523f71f4c'},Penn State University,M,True,False,Sophomore,20.0,Male,Software Engineering,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-05T15:26:05.831Z'}
+{'$oid': '5b901fa5af195c6523f71f50'},Kent State University,M,True,False,Sophomore,19.0,Male,Computer Science,True,False,approved,False,False,False,[''],False,{'$date': '2018-09-05T18:25:41.773Z'}
+{'$oid': '5b9059afff1f2a9a351eebb4'},Kent State University,M,True,True,Sophomore,20.0,Male,Digital Sciences,True,False,approved,False,False,False,['gluten'],False,{'$date': '2018-09-05T22:33:19.223Z'}
+{'$oid': '5b912527ff1f2a9a351eebb8'},The Ohio State University,M,True,True,Senior,21.0,Male,Computer and Information Sciences,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-06T13:01:27.314Z'}
+{'$oid': '5b913b32ff1f2a9a351eebbc'},Baruch College,M,True,False,Senior,22.0,Male,Computer Info. System,True,True,approved,False,False,False,[],False,{'$date': '2018-09-06T14:35:30.597Z'}
+{'$oid': '5b917555d98aff7d4df93ab8'},University of Cincinnati,L,True,False,Senior,22.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-09-06T18:43:33.573Z'}
+{'$oid': '5b9175f6f2fa76924d83fb02'},University of Cincinnati,M,True,False,Senior,23.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-09-06T18:46:14.486Z'}
+{'$oid': '5b91c25767882f1d531524d6'},Simon Fraser University,S,True,False,Senior,24.0,Male,Bioinformatics,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-07T00:12:07.764Z'}
+{'$oid': '5b91d07c85e4f77155ee67ad'},Bowling Green State University,M,True,True,Senior,22.0,Female,Mathematics,True,False,approved,True,True,False,[],False,{'$date': '2018-09-07T01:12:28.497Z'}
+{'$oid': '5b929dbc2db751b06cd6e961'},University of Florida,S,True,False,Senior,21.0,Female,computer science,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-07T15:48:12.254Z'}
+{'$oid': '5b929f9d2db751b06cd6e965'},University of Colombo School of Computing,S,True,False,Junior,23.0,Male,Computer Science,True,True,approved,False,False,False,[],False,{'$date': '2018-09-07T15:56:13.140Z'}
+{'$oid': '5b92cf3b2db751b06cd6e96a'},Youngstown State University,M,True,False,Sophomore,21.0,Male,Information Technology,True,True,approved,True,True,False,[],False,{'$date': '2018-09-07T19:19:23.929Z'}
+{'$oid': '5b92ec23f914c1d3705e96f9'},Saint Bonaventure University,M,True,False,Junior,20.0,Male,Computer Science and Biology Double,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-07T21:22:43.880Z'}
+{'$oid': '5b92f8ddf914c1d3705e96fd'},The University of Akron,S,True,False,Senior,21.0,Female,Computer Engineering,True,True,approved,False,True,False,['vegan'],False,{'$date': '2018-09-07T22:17:01.206Z'}
+{'$oid': '5b930d01f914c1d3705e9701'},Kent State University,XXL,True,False,Graduate,27.0,Male,Digital Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-09-07T23:42:57.563Z'}
+{'$oid': '5b9316c8f914c1d3705e9707'},Kent State University,L,True,True,Junior,20.0,Female,Computer Information Systems,True,False,approved,False,False,False,[''],False,{'$date': '2018-09-08T00:24:40.811Z'}
+{'$oid': '5b93190249c6ed4273b09d4a'},Kent State University,XL,True,False,Freshman,18.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-09-08T00:34:10.278Z'}
+{'$oid': '5b935fb849c6ed4273b09d4f'},Columbus State Community College,M,True,False,Freshman,21.0,Male,Computer Science,True,True,approved,True,True,False,[],False,{'$date': '2018-09-08T05:35:52.358Z'}
+{'$oid': '5b93c0f4fed545d479b525fe'},University of Waterloo,M,True,False,Sophomore,19.0,Male,Computer Science (+ Combinatorics and Optimization),True,True,approved,False,False,False,[''],False,{'$date': '2018-09-08T12:30:44.512Z'}
+{'$oid': '5b9412d5fed545d479b52602'},Non applicable ,M,True,False,High School,25.0,Female,Art,True,False,approved,False,False,False,[''],False,{'$date': '2018-09-08T18:20:05.539Z'}
+{'$oid': '5b9434655f67aebd1dc091bd'},National Insstitute of Technology Raipur,M,True,False,Freshman,18.0,Male,Computer Science,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-09-08T20:43:17.617Z'}
+{'$oid': '5b95a6b93d634f9d3608989c'},Kent State University,M,True,True,Freshman,18.0,Female,Biology,True,False,approved,False,False,False,[''],False,{'$date': '2018-09-09T23:03:21.160Z'}
+{'$oid': '5b95fa62710b6c564802599d'},University of British Columbia,S,True,True,Junior,22.0,Female,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-10T05:00:18.103Z'}
+{'$oid': '5b969947cae74c65539f9caf'},Case Western Reserve University,L,True,False,Senior,22.0,Male,Computer Science,True,True,pending,False,False,False,[''],False,{'$date': '2018-09-10T16:18:15.310Z'}
+{'$oid': '5b969947cae74c65539f9cb1'},Case Western Reserve University,L,True,False,Senior,22.0,Male,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-10T16:18:15.358Z'}
+{'$oid': '5b96c59dcae74c65539f9cb5'},The University of Akron,M,True,False,Junior,21.0,Male,Cybersecurity,True,False,approved,False,False,False,[''],False,{'$date': '2018-09-10T19:27:25.344Z'}
+{'$oid': '5b96efa951f84c1d588f6d4a'},St. Bonaventure University,M,True,False,Senior,21.0,Male,Bioinformatics,True,True,approved,True,True,False,['Peach allergy'],False,{'$date': '2018-09-10T22:26:49.759Z'}
+{'$oid': '5b96fea587758b845a4be5fc'},Case Western Reserve University,M,True,False,Junior,21.0,Male,Computer Science ,True,True,pending,False,False,False,[''],False,{'$date': '2018-09-10T23:30:45.197Z'}
+{'$oid': '5b96fea587758b845a4be5fe'},Case Western Reserve University,M,True,False,Junior,21.0,Male,Computer Science ,True,True,approved,True,True,False,[],False,{'$date': '2018-09-10T23:30:45.243Z'}
+{'$oid': '5b970a2e87758b845a4be602'},Kent State University,M,True,False,Sophomore,19.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-09-11T00:19:58.828Z'}
+{'$oid': '5b9713191188ceb15b1e23e5'},Kent State University ,S,True,True,Freshman,20.0,Female,Biotechnology ,True,False,approved,False,False,False,['vegetarian'],False,{'$date': '2018-09-11T00:58:01.927Z'}
+{'$oid': '5b9722040a4cb8bf5c012395'},Youngstown State University,L,True,False,Junior,20.0,Male,Information Technology,True,False,approved,True,True,False,[],False,{'$date': '2018-09-11T02:01:40.296Z'}
+{'$oid': '5b97c97be695077969dfbb9b'},Hiram College,L,True,False,Senior,20.0,Male,Computer Science,True,False,approved,False,True,False,['vegetarian'],False,{'$date': '2018-09-11T13:56:11.042Z'}
+{'$oid': '5b97d13be695077969dfbba1'},Kent State University,S,True,False,Graduate,22.0,Male,Business Analytics,True,False,approved,True,True,False,[],False,{'$date': '2018-09-11T14:29:15.147Z'}
+{'$oid': '5b97d3ace695077969dfbba5'},"Pennsylvania State University - Erie, The Behrend College",L,True,False,Sophomore,19.0,Male,M.I.S.,True,False,approved,False,False,False,[''],False,{'$date': '2018-09-11T14:39:40.201Z'}
+{'$oid': '5b97d7afbeab1d4c6af6c926'},Youngstown State University,S,True,True,Junior,21.0,Female,Computer Information Systems,True,False,approved,False,False,False,[''],False,{'$date': '2018-09-11T14:56:47.470Z'}
+{'$oid': '5b97dd35d62f96d66ae3752d'},University of Cincinnati,L,True,False,Junior,20.0,Male,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-11T15:20:21.430Z'}
+{'$oid': '5b97dec5d44f17f26a74f7b9'},University of Pittsburgh,L,True,False,Senior,21.0,Male,Computer Science,True,True,approved,True,True,False,[],False,{'$date': '2018-09-11T15:27:01.552Z'}
+{'$oid': '5b983b0eb23c14a06e595d14'},Troy High School,M,True,False,High School,16.0,Female,High School Student,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-11T22:00:46.037Z'}
+{'$oid': '5b983fdb5513892d70d52c92'},Salinas High School,S,True,False,High School,16.0,Male,,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-11T22:21:15.341Z'}
+{'$oid': '5b984e4fc0e21be870a06022'},Kent State University,S,True,False,Sophomore,19.0,Female,Mechatronics,True,False,approved,False,False,False,[''],False,{'$date': '2018-09-11T23:22:55.978Z'}
+{'$oid': '5b984e62c0e21be870a06026'},Kent State University,L,True,True,Sophomore,18.0,Demigirl,Computer Science/Mathematics,True,False,approved,True,True,False,[],False,{'$date': '2018-09-11T23:23:14.119Z'}
+{'$oid': '5b984ec0c0e21be870a06028'},Kent State University ,M,True,False,Sophomore,21.0,Male,Digital Science,True,False,approved,False,True,False,['Suger Free'],False,{'$date': '2018-09-11T23:24:48.666Z'}
+{'$oid': '5b984ed1c0e21be870a0602a'},Kent State University,XL,True,False,Junior,20.0,Female,Digital Sciences,True,False,approved,False,True,False,[''],False,{'$date': '2018-09-11T23:25:05.868Z'}
+{'$oid': '5b985f0ac0e21be870a0602e'},Kent State University ,M,True,True,Graduate,27.0,Prefer Not to Say,Chemical Physics ,True,False,approved,True,False,False,['vegetarian'],False,{'$date': '2018-09-12T00:34:18.990Z'}
+{'$oid': '5b9862d0e6f4ae4f75ae3de1'},Carnegie Mellon University,XL,True,False,Graduate,26.0,Male,Computer Science,True,True,approved,False,False,False,[],False,{'$date': '2018-09-12T00:50:24.702Z'}
+{'$oid': '5b9879d2e6f4ae4f75ae3de5'},Kent State Alumnus,L,True,True,Alumnus,22.0,Female,Marketing/Sales grad,True,False,approved,True,True,False,[],False,{'$date': '2018-09-12T02:28:34.596Z'}
+{'$oid': '5b9a16c7e6f4ae4f75ae3dee'},Ohio State University,L,True,False,Junior,20.0,Male,Computer Science and Engineering,True,True,approved,False,True,False,[''],False,{'$date': '2018-09-13T07:50:31.525Z'}
+{'$oid': '5b9af36fb0a5514639e8efe4'},Kent State University,M,True,False,Junior,20.0,Male,Digital Science,True,False,approved,True,True,False,[],False,{'$date': '2018-09-13T23:31:59.155Z'}
+{'$oid': '5b9c5d6f3ff381b2586154e2'},Illinois Institute of Technology,L,True,True,Senior,24.0,Male,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-15T01:16:31.387Z'}
+{'$oid': '5b9c7a1e3ff381b2586154e6'},Kent State University ,L,True,False,Junior,21.0,Prefer Not to Say,Information Technology ,True,False,approved,False,False,False,[''],False,{'$date': '2018-09-15T03:18:54.132Z'}
+{'$oid': '5b9ccabf600f2c5e5da2a14c'},"University of California, Irvine",L,True,False,Junior,20.0,Male,Nursing Science (Minor: Computer Engineering),True,True,approved,False,False,False,[''],False,{'$date': '2018-09-15T09:02:55.107Z'}
+{'$oid': '5b9d4c5d2e13dca968c42237'},Purdue University,M,True,False,Junior,20.0,Female,Computer Science,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-09-15T18:15:57.035Z'}
+{'$oid': '5b9d58f0edccc1a369794fd9'},Purdue University,S,True,False,Junior,19.0,Female,Computer Science,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-09-15T19:09:36.274Z'}
+{'$oid': '5b9d636eebd57d846b550d0c'},Purdue University,S,True,False,Sophomore,19.0,Female,Computer Science,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-09-15T19:54:22.267Z'}
+{'$oid': '5b9dd20da3e3c5f273a8725d'},University of Texas at Austin,L,True,True,Freshman,18.0,Male,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-16T03:46:21.914Z'}
+{'$oid': '5b9e664d785bb6ff014b678d'},Bharati Vidyapeeth's College of Engineering New Delhi,M,True,False,Junior,20.0,Male,Information Technology,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-09-16T14:18:53.408Z'}
+{'$oid': '5b9eb9db5b0f956a0911240a'},McMaster University,S,True,False,Senior,22.0,Female,Computer Science,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-09-16T20:15:23.408Z'}
+{'$oid': '5b9ef1ca82ca865c1509ba31'},The University of Southern Mississippi,M,True,True,Junior,21.0,Male,Computer Science,True,True,approved,False,False,False,"[""I don't eat beef. ""]",False,{'$date': '2018-09-17T00:14:02.309Z'}
+{'$oid': '5ba04bf982ca865c1509ba40'},Kent State University,M,True,False,Senior,21.0,Male,Computer Science,True,False,approved,True,True,False,['vegetarian'],False,{'$date': '2018-09-18T00:51:05.402Z'}
+{'$oid': '5ba0702d82ca865c1509ba44'},Youngstown State University,S,True,True,Freshman,18.0,Female,Computer Science,True,False,approved,True,True,False,['vegetarian'],False,{'$date': '2018-09-18T03:25:33.737Z'}
+{'$oid': '5ba070dc82ca865c1509ba48'},Youngstown State University,M,True,False,Senior,21.0,Male,Computer science,True,False,approved,False,True,False,[''],False,{'$date': '2018-09-18T03:28:28.261Z'}
+{'$oid': '5ba1131061a0fbac4cb7ce62'},"Queens College, CUNY",L,True,False,Junior,30.0,Male,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-18T15:00:32.632Z'}
+{'$oid': '5ba13bf0eebe17fb4f185fdf'},"University of Colorado, Boulder",L,True,False,Senior,22.0,Male,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-18T17:54:56.887Z'}
+{'$oid': '5ba15fd63f89baa652219d9b'},Kent State University,XXL,True,True,Senior,21.0,Male,Digital Sciences,True,False,approved,True,True,False,[],False,{'$date': '2018-09-18T20:28:06.154Z'}
+{'$oid': '5ba182dd3f89baa652219d9f'},Kent State University,S,True,False,Senior,23.0,Female,Digital Science,True,False,approved,True,False,False,[],False,{'$date': '2018-09-18T22:57:33.498Z'}
+{'$oid': '5ba19a9d3f89baa652219da5'},Kent State,M,True,False,Senior,21.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-09-19T00:38:53.838Z'}
+{'$oid': '5ba1bbf130313abe5a35dd5e'},Vincent Massey Secondary School,XL,True,False,High School,16.0,Male,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-19T03:01:05.962Z'}
+{'$oid': '5ba20ac4a433bc9e60e89579'},Manav Rachna International University,M,True,False,Graduate,21.0,Male,Computer Science,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-09-19T08:37:24.828Z'}
+{'$oid': '5ba25f87a433bc9e60e8957d'},University of Akron,XL,True,False,Senior,21.0,Male,Mechanical Engineering,True,False,approved,True,True,False,[],False,{'$date': '2018-09-19T14:39:03.189Z'}
+{'$oid': '5ba28441a433bc9e60e89581'},Kent State University Stark,XL,True,False,Junior,20.0,Male,Information Technology,True,False,approved,True,True,False,[],False,{'$date': '2018-09-19T17:15:45.154Z'}
+{'$oid': '5ba286b3a433bc9e60e89583'},Kent State University,L,True,False,Junior,25.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-09-19T17:26:11.415Z'}
+{'$oid': '5ba2aea2a433bc9e60e89585'},Kent State University,M,True,True,Freshman,18.0,Male,Computer Science,True,False,pending,False,False,False,[''],False,{'$date': '2018-09-19T20:16:34.574Z'}
+{'$oid': '5ba2b3b4a433bc9e60e89589'},Kent State University,M,True,False,Freshman,19.0,Male,asdfaasdfasdf,True,False,pending,False,False,False,[''],False,{'$date': '2018-09-19T20:38:12.767Z'}
+{'$oid': '5ba2b5e0a433bc9e60e8958d'},asdf,M,True,False,Freshman,613245.0,Female,asdf,True,False,pending,False,False,False,[''],False,{'$date': '2018-09-19T20:47:28.758Z'}
+{'$oid': '5ba2d5e007757b856f035825'},The University of Akron,XL,True,False,Senior,21.0,Male,Computer Engineering,True,False,approved,True,True,False,[],False,{'$date': '2018-09-19T23:04:00.878Z'}
+{'$oid': '5ba2d617378d9b976fdfc6df'},The University of Akron,M,True,True,Sophomore,19.0,Male,Computer Engineering,True,False,pending,False,False,False,[''],False,{'$date': '2018-09-19T23:04:55.102Z'}
+{'$oid': '5ba2d617378d9b976fdfc6e1'},The University of Akron,M,True,True,Sophomore,19.0,Male,Computer Engineering,True,False,approved,False,False,False,[''],False,{'$date': '2018-09-19T23:04:55.147Z'}
+{'$oid': '5ba2d6832f57eeaf6f46d0be'},The University of Akron,M,True,False,Senior,21.0,Female,Electrical Engineering,True,False,approved,False,True,False,[''],False,{'$date': '2018-09-19T23:06:43.892Z'}
+{'$oid': '5ba3040a2ed2d76671070313'},Kent State University,M,True,False,Senior,21.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-09-20T02:20:58.303Z'}
+{'$oid': '5ba3210e2ed2d76671070317'},St. Cloud State University,L,True,True,Junior,22.0,Male,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-20T04:24:46.842Z'}
+{'$oid': '5ba399372ed2d7667107031b'},Youngstown state University,M,True,True,Junior,25.0,Male,Exercise Science,True,False,approved,False,False,False,['gluten'],False,{'$date': '2018-09-20T12:57:27.518Z'}
+{'$oid': '5ba3deaabe6e1da70a3f0271'},Purdue University,M,True,False,Senior,21.0,Male,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-20T17:53:46.984Z'}
+{'$oid': '5ba3dfc01ccd4cc70ade38f0'},Purdue University,M,True,False,Senior,21.0,Male,Computer Science,True,False,approved,False,False,False,[''],False,{'$date': '2018-09-20T17:58:24.841Z'}
+{'$oid': '5ba3e1058b5b51eb0a24303a'},Purdue University,M,True,False,Senior,21.0,Male,Computer Science,True,False,approved,True,False,False,[],False,{'$date': '2018-09-20T18:03:49.136Z'}
+{'$oid': '5ba3ec3135dd4e140c7e9edb'},University of Akron,M,True,False,Senior,21.0,Female,Computer Engineering,True,False,pending,False,False,False,['Almonds'],False,{'$date': '2018-09-20T18:51:29.955Z'}
+{'$oid': '5ba3ec3135dd4e140c7e9edd'},University of Akron,M,True,False,Senior,21.0,Female,Computer Engineering,True,False,approved,True,True,False,['Almonds'],False,{'$date': '2018-09-20T18:51:29.993Z'}
+{'$oid': '5ba40b37e5bd96220e1c1925'},Northeastern University,M,True,True,Graduate,25.0,Male,Computer Science,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-09-20T21:03:51.769Z'}
+{'$oid': '5ba4299ba0f2503611523983'},Kent State University,M,True,True,Freshman,18.0,Male,Computer Science,True,False,approved,True,False,False,[],False,{'$date': '2018-09-20T23:13:31.832Z'}
+{'$oid': '5ba44b4ca0427752147a7e0a'},Hiram College,L,True,True,Senior,21.0,Male,Computer Science,True,False,approved,True,False,False,[],False,{'$date': '2018-09-21T01:37:16.264Z'}
+{'$oid': '5ba457d1a0427752147a7e18'},East High School,L,True,True,High School,15.0,Male,English,True,False,approved,False,False,False,['none'],False,{'$date': '2018-09-21T02:30:41.358Z'}
+{'$oid': '5ba45b19a0427752147a7e1a'},Kent State University,M,True,True,Junior,21.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-09-21T02:44:41.913Z'}
+{'$oid': '5ba52a99a0427752147a7e1f'},Kent State University,XXL,True,True,Freshman,19.0,Male,Computer Science,True,False,approved,False,False,False,[''],False,{'$date': '2018-09-21T17:30:01.157Z'}
+{'$oid': '5ba532e0a0427752147a7e23'},Kent State University,M,True,False,Freshman,18.0,Female,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-09-21T18:05:20.177Z'}
+{'$oid': '5ba59e82a0427752147a7e2b'},University of Akron,M,True,True,Sophomore,20.0,Male,Computer Engineering,True,False,approved,True,True,False,[],False,{'$date': '2018-09-22T01:44:34.233Z'}
+{'$oid': '5ba5c9bba0427752147a7e2f'},Kent State University,S,True,True,Junior,20.0,Female,Computer Science,True,False,approved,False,False,False,[''],False,{'$date': '2018-09-22T04:48:59.234Z'}
+{'$oid': '5ba6bea0294f19263fa36817'},Port Credit Secondary School,S,True,False,High School,14.0,Male,I hope to pursue Astronautical Engineering and Nanotechnology. ,True,True,approved,True,False,False,['I am only able to eat one meat: Chicken.'],False,{'$date': '2018-09-22T22:13:52.195Z'}
+{'$oid': '5ba71b9c294f19263fa3681d'},Modesto Junior College,L,True,False,Sophomore,19.0,Male,Computer Science,True,True,approved,True,True,False,[],False,{'$date': '2018-09-23T04:50:36.666Z'}
+{'$oid': '5ba73194b126fd0a45c541e7'},Sir John A. Macdonald Secondary School,M,True,False,High School,17.0,Female,Still a high school student yet considering Computer Science or Engineering,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-23T06:24:20.820Z'}
+{'$oid': '5ba7f6df805165d947fec47f'},Youngstown State University,M,True,True,Freshman,19.0,Male,Computer Science,True,True,approved,True,True,False,['vegetarian'],False,{'$date': '2018-09-23T20:26:07.922Z'}
+{'$oid': '5ba816ac805165d947fec485'},The University of Toledo,XXL,True,True,Junior,20.0,Male,Computer Science and Engineering,True,False,approved,False,True,False,[''],False,{'$date': '2018-09-23T22:41:48.270Z'}
+{'$oid': '5ba933fad6efd2156d944a4c'},Clarkston High School,L,True,False,High School,15.0,Male,Computer Science,True,True,approved,True,True,False,[],False,{'$date': '2018-09-24T18:59:06.665Z'}
+{'$oid': '5ba93f561af8df7d6d2adca0'},Oakland University,L,True,False,Freshman,18.0,Male,Computer Science,True,True,approved,True,True,False,[],False,{'$date': '2018-09-24T19:47:34.825Z'}
+{'$oid': '5ba95e356de568ac6ef8f5e4'},Purdue University,L,True,False,Junior,19.0,Female,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-24T21:59:17.998Z'}
+{'$oid': '5ba98dec3258abc270c28069'},University of Pittsburgh,M,True,False,Senior,21.0,Male,Electrical Engineering,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-25T01:22:52.244Z'}
+{'$oid': '5ba9a5903258abc270c2806d'},University of Toledo,M,True,True,Sophomore,20.0,Male,Computer Science and Engineering,True,False,approved,False,False,False,[''],False,{'$date': '2018-09-25T03:03:44.627Z'}
+{'$oid': '5ba9e07ea5b0b61578b3d643'},new york university,S,True,False,Graduate,25.0,Male,computer science,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-25T07:15:10.617Z'}
+{'$oid': '5baa9a41f5f8280506d32b7f'},Illinois Institute of Technology,L,True,False,Sophomore,19.0,Female,Computer Science,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-09-25T20:27:45.007Z'}
+{'$oid': '5baadcddf5f8280506d32b83'},University of Toledo,XL,True,False,Junior,20.0,Male,Computer Science Engineering (CSE),True,True,approved,True,True,False,[],False,{'$date': '2018-09-26T01:11:57.785Z'}
+{'$oid': '5bab068f52d291680ce40fad'},Brown University,S,True,False,Sophomore,19.0,Female,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-26T04:09:51.989Z'}
+{'$oid': '5bab2b4671f859e00fc1d9de'},Minerva Schools at KGI,M,True,False,Freshman,18.0,Male,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-26T06:46:30.098Z'}
+{'$oid': '5bab2b93981edcf40f8ff33b'},Minerva Schools at KGI,S,True,False,Freshman,19.0,Male,Business and Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-09-26T06:47:47.952Z'}
+{'$oid': '5bac23c9a50905e41dc2bfe6'},Case Western Reserve University,L,True,False,Junior,20.0,Male,Computer Science,True,True,approved,True,True,False,[],False,{'$date': '2018-09-27T00:26:49.705Z'}
+{'$oid': '5bad43571cccd21c3b831faf'},The University of Toledo,XL,True,True,Sophomore,20.0,Male,Computer Science and Engineering,True,False,approved,False,False,False,[],False,{'$date': '2018-09-27T20:53:43.126Z'}
+{'$oid': '5bada15b1cccd21c3b831fb3'},Youngstown State University,L,True,True,Freshman,19.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-09-28T03:34:51.036Z'}
+{'$oid': '5bae532b7641ca404da64f60'},Kent State University,XXL,True,True,Freshman,19.0,Female,Computer Science,True,False,approved,False,False,False,[],False,{'$date': '2018-09-28T16:13:31.777Z'}
+{'$oid': '5bae84857641ca404da64f65'},Kent State University,L,True,True,Senior,19.0,Male,Political Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-09-28T19:44:05.804Z'}
+{'$oid': '5bae85f47641ca404da64f69'},Cuyahoga County Community College,L,True,False,Freshman,18.0,Male,Undecided,True,False,approved,True,False,False,[],False,{'$date': '2018-09-28T19:50:12.269Z'}
+{'$oid': '5baede39cb0f777b568412e6'},University of Western Ontario,S,True,False,Freshman,18.0,Male,Computer Science,True,True,approved,True,False,False,[],False,{'$date': '2018-09-29T02:06:49.140Z'}
+{'$oid': '5bafc624a1f023c063707b7f'},Fairleigh Dickinson University,M,True,True,Sophomore,19.0,Female,Computer Science (Data Mining),True,True,pending,False,False,False,[''],False,{'$date': '2018-09-29T18:36:20.232Z'}
+{'$oid': '5bafc624a1f023c063707b81'},Fairleigh Dickinson University,M,True,True,Sophomore,19.0,Female,Computer Science (Data Mining),True,True,approved,False,False,False,[''],False,{'$date': '2018-09-29T18:36:20.271Z'}
+{'$oid': '5bafec51a1f023c063707b85'},Lorain County Community College,L,True,False,Sophomore,19.0,Male,Biomechanical Engineering,True,False,approved,True,True,False,[],False,{'$date': '2018-09-29T21:19:13.700Z'}
+{'$oid': '5bb069f0442f09986c409931'},University of Miami,S,True,True,Freshman,19.0,Male,Computer Engineering,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-09-30T06:15:12.624Z'}
+{'$oid': '5bb21c37442f09986c409934'},Bio-Med Science Academy,M,True,True,High School,16.0,Male,In high school,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-01T13:08:07.617Z'}
+{'$oid': '5bb2b9330e34958727f93f97'},Youngstown State,M,True,False,Sophomore,20.0,Male,Computer Science,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-10-02T00:17:55.753Z'}
+{'$oid': '5bb38eb52050e1dc3e05c204'},Purdue University,M,True,False,Sophomore,18.0,Female,Computer Science,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-02T15:28:53.710Z'}
+{'$oid': '5bb390568a0334103f40a5e2'},The University of Texas at Dallas,M,True,False,Sophomore,19.0,Male,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-10-02T15:35:50.125Z'}
+{'$oid': '5bb3946e8a0334103f40a5e8'},Youngstown State University ,S,True,False,Freshman,20.0,Male,Computer Science ,True,True,approved,False,False,False,[''],False,{'$date': '2018-10-02T15:53:18.463Z'}
+{'$oid': '5bb39566a60690843f70312d'},Avila University,XXL,True,True,Junior,26.0,Male,Computer Science ,True,True,approved,False,False,False,['gluten'],False,{'$date': '2018-10-02T15:57:26.087Z'}
+{'$oid': '5bb39616a60690843f703131'},Northeast Ohio Medical University,L,True,False,Graduate,21.0,Female,Medicine,True,False,approved,True,True,False,[],False,{'$date': '2018-10-02T16:00:22.137Z'}
+{'$oid': '5bb3a241af73cfbb3f38cd09'},kent state university,M,True,True,Graduate,25.0,Male,computer science,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-02T16:52:17.593Z'}
+{'$oid': '5bb3c7d197133b0b41a416d1'},Kent State University,S,True,True,Junior,20.0,Female,Entrepreneurship ,True,False,approved,False,False,False,[''],True,{'$date': '2018-10-02T19:32:33.147Z'}
+{'$oid': '5bb3cebdc56a881d4569e8e1'},Delhi Technological University,L,True,False,Senior,19.0,Male,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-10-02T20:02:05.546Z'}
+{'$oid': '5bb3d1ebc56a881d4569e8e5'},Kent State University,M,True,False,Junior,22.0,Male,Environmental studies,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-02T20:15:39.140Z'}
+{'$oid': '5bb3d7e85467731b46938f9c'},North Carolina State University,M,True,False,Graduate,23.0,Male,Computer Science,True,True,pending,False,False,False,['vegetarian'],False,{'$date': '2018-10-02T20:41:12.746Z'}
+{'$oid': '5bb3d7e85467731b46938f9e'},North Carolina State University,M,True,False,Graduate,23.0,Male,Computer Science,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-10-02T20:41:12.788Z'}
+{'$oid': '5bb3ea785467731b46938fa2'},Kent State University,XXL,True,False,Graduate,21.0,Male,Computer Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-02T22:00:24.314Z'}
+{'$oid': '5bb3fe6166551c71497fb4e8'},Kent State University,M,True,True,Junior,20.0,Male,Computer Science: Information Security,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-02T23:25:21.880Z'}
+{'$oid': '5bb408da66551c71497fb4ea'},Kent State University,M,True,True,Senior,24.0,Male,Applied Communication,True,False,approved,True,False,False,[],False,{'$date': '2018-10-03T00:10:02.668Z'}
+{'$oid': '5bb40f228ec650fd4a1750f3'},Kent State University,L,True,True,Senior,22.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-03T00:36:50.439Z'}
+{'$oid': '5bb41099807fbb264b35fe3b'},Delhi Technological University,L,True,False,Senior,20.0,Male,Computer science,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-10-03T00:43:05.449Z'}
+{'$oid': '5bb411c5b6947d4e4b4237de'},We Can Code IT,L,True,True,Graduated,22.0,Male,N/a,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-03T00:48:05.076Z'}
+{'$oid': '5bb4145685aa54974b7c3cc4'},Oberlin College,S,True,False,Junior,20.0,Male,Computer Science and Math,True,False,approved,True,True,False,[],False,{'$date': '2018-10-03T00:59:02.255Z'}
+{'$oid': '5bb4563685aa54974b7c3ccd'},Temple University,M,True,False,Junior,22.0,Male,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-10-03T05:40:06.680Z'}
+{'$oid': '5bb46691f999334f53ccc413'},University of Illinois at Urbana-Champaign,M,True,False,Senior,20.0,Male,Electrical Engineering,True,True,approved,False,False,False,[''],False,{'$date': '2018-10-03T06:49:53.283Z'}
+{'$oid': '5bb4cf2caa856c0c58b73a27'},University of Waterloo,S,True,False,Sophomore,20.0,Prefer Not to Say,"Finance, Computer Science",True,False,pending,False,False,False,[''],False,{'$date': '2018-10-03T14:16:12.745Z'}
+{'$oid': '5bb4cf2caa856c0c58b73a29'},University of Waterloo,S,True,False,Sophomore,20.0,Prefer Not to Say,"Finance, Computer Science",True,False,approved,True,True,False,[],False,{'$date': '2018-10-03T14:16:12.783Z'}
+{'$oid': '5bb508972fa1a4875d1e8ab1'},"University Of California, Irvine",M,True,False,Junior,20.0,Male,Computer Science,True,True,approved,False,False,False,[],False,{'$date': '2018-10-03T18:21:11.694Z'}
+{'$oid': '5bb50f462fa1a4875d1e8ab5'},University of Akron,M,True,False,Sophomore,19.0,Male,Computer Science,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-03T18:49:42.375Z'}
+{'$oid': '5bb521dc2fa1a4875d1e8abb'},Hiram College,M,True,True,Sophomore,20.0,Male,Computer Science ,True,False,approved,True,True,False,[],False,{'$date': '2018-10-03T20:09:00.992Z'}
+{'$oid': '5bb5220a2fa1a4875d1e8abd'},Hiram college,L,True,True,Senior,25.0,Male,computer science,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-03T20:09:46.991Z'}
+{'$oid': '5bb526272fa1a4875d1e8ac1'},Hiram college,L,True,True,Freshman,20.0,Male,Compute science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-03T20:27:19.477Z'}
+{'$oid': '5bb52c995300df8f610485fa'},Rutgers University ,L,True,False,Junior,19.0,Male,Information Technology and Informatics,True,True,approved,False,False,False,[''],False,{'$date': '2018-10-03T20:54:49.784Z'}
+{'$oid': '5bb541845300df8f61048602'},Oberlin College,M,True,False,Junior,20.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-03T22:24:04.824Z'}
+{'$oid': '5bb5542c66374379666aaa0b'},Case Western Reserve University,M,True,True,Junior,22.0,Female,Mechanical Engineer,True,False,approved,True,False,False,['None'],False,{'$date': '2018-10-03T23:43:40.498Z'}
+{'$oid': '5bb56b38e47eda6d692cae1a'},Rutgers University,M,True,False,Senior,21.0,Male,Mechanical Engineering,True,True,approved,False,False,False,[''],False,{'$date': '2018-10-04T01:22:00.746Z'}
+{'$oid': '5bb56ed7be1ae4a9697d1885'},Rutgers University,L,True,True,Sophomore,19.0,Male,Computer Science and Mathematics,True,True,approved,False,False,False,[''],False,{'$date': '2018-10-04T01:37:27.071Z'}
+{'$oid': '5bb57751be1ae4a9697d1889'},Andrews Osborne Academy,M,True,True,High School,17.0,Male,Computer Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-04T02:13:37.010Z'}
+{'$oid': '5bb61daa41955cda70f0640a'},Kent State University,L,True,False,Senior,23.0,Male,Computer Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-04T14:03:22.225Z'}
+{'$oid': '5bb62ebc830d166f75f845e0'},Kent State University,L,True,False,Junior,20.0,Male,Computer Science,True,False,approved,True,True,False,['Fish'],False,{'$date': '2018-10-04T15:16:12.809Z'}
+{'$oid': '5bb630bf7f83b18275846c5f'},Oberlin College,L,True,True,Junior,21.0,Male,"Computer Science, Cinema Studies",True,False,approved,True,True,False,[],False,{'$date': '2018-10-04T15:24:47.260Z'}
+{'$oid': '5bb6427e63bf7aca750d4f8f'},Northern Kentucky University,L,True,True,Junior,21.0,Male,Computer Science,True,True,approved,False,False,False,['vegan'],False,{'$date': '2018-10-04T16:40:30.348Z'}
+{'$oid': '5bb651c663bf7aca750d4f93'},Hiram College ,M,True,True,Sophomore,19.0,Male,Theatre,True,False,approved,True,True,False,[],False,{'$date': '2018-10-04T17:45:42.123Z'}
+{'$oid': '5bb6536f63bf7aca750d4f97'},Kent State University,L,True,False,Freshman,19.0,Male,Computer Science,True,False,approved,False,True,False,['vegetarian'],False,{'$date': '2018-10-04T17:52:47.006Z'}
+{'$oid': '5bb6545f63bf7aca750d4f9b'},Kent State,XXL,True,True,Sophomore,20.0,Male,Computer Science,True,False,approved,True,True,False,['vegetarian'],False,{'$date': '2018-10-04T17:56:47.905Z'}
+{'$oid': '5bb6694363bf7aca750d4fa1'},Kent State University,M,True,True,Freshman,18.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-04T19:25:55.179Z'}
+{'$oid': '5bb6ebfb63bf7aca750d4fa8'},Andrews Osborne Academy,S,True,False,High School,18.0,Female,I don’t have a major since I’m in high school.,True,False,approved,True,True,False,[],False,{'$date': '2018-10-05T04:43:39.038Z'}
+{'$oid': '5bb75f8b63bf7aca750d4fac'},restsfdsa,M,True,False,Junior,21.0,Female,vds,True,False,pending,False,False,False,['gluten'],False,{'$date': '2018-10-05T12:56:43.989Z'}
+{'$oid': '5bb77453bae012f00e3c9b1d'},Kennesaw State University,L,True,False,Senior,21.0,Female,Software Engineering,True,True,approved,False,False,False,['kosher'],False,{'$date': '2018-10-05T14:25:23.048Z'}
+{'$oid': '5bb775eb698ec70c13703644'},Kent State University,M,True,True,Graduate,27.0,Female,computer science,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-05T14:32:11.366Z'}
+{'$oid': '5bb777d5698ec70c13703646'},Kent State University,L,True,True,Graduate,30.0,Female,Computer Science,True,False,approved,True,False,False,['vegetarian'],False,{'$date': '2018-10-05T14:40:21.125Z'}
+{'$oid': '5bb77ca4698ec70c1370365c'},Kent State University,L,True,True,Sophomore,20.0,Male,Digital Sciences,True,False,approved,True,True,False,[],False,{'$date': '2018-10-05T15:00:52.187Z'}
+{'$oid': '5bb7a722732551ac72a7ae90'},Erindale Secondary School,M,True,False,High School,14.0,Male,To Be Medical Soon ,True,True,approved,True,False,False,['kosher'],False,{'$date': '2018-10-05T18:02:10.572Z'}
+{'$oid': '5bb7aae5f2df50647659637a'},Lorain County Community College,L,True,False,Sophomore,19.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-05T18:18:13.989Z'}
+{'$oid': '5bb7dd78e33ead1c22cb9d76'},The Pennsylvania State University,XXL,True,False,Senior,22.0,Male,Software and Electrical Engineering,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-05T21:54:00.447Z'}
+{'$oid': '5bb7f25ee2ab23f615d62b13'},Kent State University,M,True,True,Senior,21.0,Male,Computer Science,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-05T23:23:10.488Z'}
+{'$oid': '5bb8f110adefba09318f8362'},The University of Akron,M,True,False,Senior,21.0,Male,Computer Engineering,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-06T17:29:52.893Z'}
+{'$oid': '5bb9112adf6c86745f7c6d1d'},Drexel University,M,True,False,Junior,20.0,Male,Computer Science,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-10-06T19:46:50.135Z'}
+{'$oid': '5bb94953df6c86745f7c6d21'},University of Akron,M,True,True,Sophomore,19.0,Female,Mechanical engineering ,True,False,approved,True,False,False,['vegetarian'],False,{'$date': '2018-10-06T23:46:27.135Z'}
+{'$oid': '5bb95b48920b86006a8ba5ea'},Kent State University,M,True,False,Graduate,34.0,Male,Computer Science,True,False,approved,False,True,False,['vegetarian'],False,{'$date': '2018-10-07T01:03:04.148Z'}
+{'$oid': '5bb95d94920b86006a8ba5ee'},R. Nelson Snider High School Fort Wayne,L,True,True,Senior,17.0,Male,Computer Science,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-07T01:12:52.389Z'}
+{'$oid': '5bba575b833d9e7674d86a7d'},Kent State University,XL,True,False,Graduate,23.0,Male,Computer Science,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-07T18:58:35.812Z'}
+{'$oid': '5bba7bab788461eb1d8da7a9'},Kent State University,S,True,False,Graduate,22.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-07T21:33:31.416Z'}
+{'$oid': '5bba7ec4788461eb1d8da7ad'},Arizona State University,M,True,False,Junior,21.0,Robot,Computer Science,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-10-07T21:46:44.931Z'}
+{'$oid': '5bbab9e7788461eb1d8da7b3'},"Penn State Erie, The Behrend College",XXL,True,False,Freshman,18.0,Male,Computer Science,True,True,approved,True,True,False,[],False,{'$date': '2018-10-08T01:59:03.687Z'}
+{'$oid': '5bbac787788461eb1d8da8aa'},Andrews Osborne Academy ,L,True,True,High School,17.0,Male,computer Science,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-08T02:57:11.606Z'}
+{'$oid': '5bbaca15788461eb1d8da8ad'},Erindale Secondary School,L,True,True,High School,15.0,Male,,True,True,approved,True,True,False,[],False,{'$date': '2018-10-08T03:08:05.445Z'}
+{'$oid': '5bbacbc0788461eb1d8da8af'},Kent State University,L,True,True,Freshman,18.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-08T03:15:12.073Z'}
+{'$oid': '5bbad30f788461eb1d8da8b5'},Andrews Osborne Academy,L,True,True,Junior,16.0,Male,Computer Science,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-08T03:46:23.690Z'}
+{'$oid': '5bbae6af788461eb1d8da8bc'},Markville Secondary School,M,True,False,High School,17.0,Prefer Not to Say,Computer Engineering,True,True,approved,False,False,False,[''],False,{'$date': '2018-10-08T05:10:07.233Z'}
+{'$oid': '5bbb53c56bf1f5ba2fc8a1fc'},Hiram College,M,True,True,Sophomore,19.0,Male,Computer Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-08T12:55:33.219Z'}
+{'$oid': '5bbb611c6bf1f5ba2fc8a201'},Oberlin College,M,True,True,Junior,20.0,Male,East Asian Studies,True,False,approved,True,True,False,[],False,{'$date': '2018-10-08T13:52:28.981Z'}
+{'$oid': '5bbb7e816bf1f5ba2fc8a208'},University of Pittsburgh,L,True,False,Senior,21.0,Male,Economics-Statistics,True,False,approved,True,True,False,[],False,{'$date': '2018-10-08T15:57:53.158Z'}
+{'$oid': '5bbb83c56bf1f5ba2fc8a20c'},University of Toronto,L,True,False,Freshman,17.0,Male,Computer Science,True,True,approved,True,False,False,['vegetarian'],False,{'$date': '2018-10-08T16:20:21.813Z'}
+{'$oid': '5bbb98776bf1f5ba2fc8a212'},Penn State University,M,True,False,Junior,20.0,Male,Software Engineering,True,True,approved,False,False,False,['No beef'],False,{'$date': '2018-10-08T17:48:39.314Z'}
+{'$oid': '5bbb9bfd6bf1f5ba2fc8a216'},University of Waterloo,M,True,True,Sophomore,20.0,Male,Systems Design Engineering,True,True,approved,True,True,False,[],False,{'$date': '2018-10-08T18:03:41.877Z'}
+{'$oid': '5bbbb3478e6270d13ed3d528'},Kent State University,M,True,True,Sophomore,20.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-08T19:43:03.605Z'}
+{'$oid': '5bbbd3d58e6270d13ed3d530'},University Of Akron,XXL,True,False,Junior,28.0,Male,CIS Programming,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-08T22:01:57.594Z'}
+{'$oid': '5bbbd6548e6270d13ed3d532'},The University of Akron,L,True,False,Senior,21.0,Male,Electrical and Computer Engineering,True,False,approved,True,True,False,[],False,{'$date': '2018-10-08T22:12:36.774Z'}
+{'$oid': '5bbbd8498e6270d13ed3d536'},Pennsylvania State University,M,True,True,Freshman,18.0,Male,Computer Science,True,True,approved,True,False,False,[],False,{'$date': '2018-10-08T22:20:57.591Z'}
+{'$oid': '5bbbdfff8e6270d13ed3d53a'},Stow Munroe Falls High School,S,True,True,High School,15.0,Female,I'm in High School,True,False,approved,False,True,False,['vegetarian'],False,{'$date': '2018-10-08T22:53:51.294Z'}
+{'$oid': '5bbbed6e8e6270d13ed3d53e'},Penn State University,M,True,False,Sophomore,19.0,Male,Computer Engineering And Math,True,True,approved,False,False,False,['kosher'],False,{'$date': '2018-10-08T23:51:10.919Z'}
+{'$oid': '5bbbf26a8e6270d13ed3d542'},Firestone CLC,L,True,False,High School,15.0,Male,Student,True,False,approved,True,True,False,[],False,{'$date': '2018-10-09T00:12:26.229Z'}
+{'$oid': '5bbc08148e6270d13ed3d54f'},Kennesaw State University,M,True,True,Senior,22.0,Female,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-10-09T01:44:52.388Z'}
+{'$oid': '5bbc25228e6270d13ed3d552'},Kent State University,M,True,True,Graduate,22.0,Male,Computer Science,True,False,approved,False,True,False,['vegetarian'],False,{'$date': '2018-10-09T03:48:50.769Z'}
+{'$oid': '5bbc2d688e6270d13ed3d556'},The University of Akron,L,True,False,Sophomore,20.0,Male,Computer Engineering,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-09T04:24:08.168Z'}
+{'$oid': '5bbc914dec3262c95553faac'},Firestone CLC,S,True,True,High School,15.0,Male,Computer Engineer ,True,False,approved,False,True,False,['N/A'],False,{'$date': '2018-10-09T11:30:21.878Z'}
+{'$oid': '5bbc9503ec3262c95553fab0'},Firestone ,L,True,False,High School,16.0,Female,Computer animation ,True,False,approved,False,False,False,['vegetarian'],False,{'$date': '2018-10-09T11:46:11.538Z'}
+{'$oid': '5bbca2c0ec3262c95553fab4'},Kent State University at Stark,L,True,True,Sophomore,19.0,Male,Computer Science,True,False,approved,True,True,False,"['No tree nuts (pecans, almonds, walnuts) peanuts are okay']",False,{'$date': '2018-10-09T12:44:48.875Z'}
+{'$oid': '5bbcb3b4ec3262c95553fabb'},The Ohio State University,S,True,False,Graduate,24.0,Female,Biology,True,False,approved,True,True,False,[],False,{'$date': '2018-10-09T13:57:08.372Z'}
+{'$oid': '5bbcc0bbec3262c95553fac4'},Indiana University Bloomington,S,True,True,Graduate,23.0,Male,Data Science,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-10-09T14:52:43.495Z'}
+{'$oid': '5bbccb22ec3262c95553fac9'},The University of Toledo College of Engineering,M,True,True,Freshman,18.0,Male,Computer Science and Engineering,True,False,approved,True,False,False,[],False,{'$date': '2018-10-09T15:37:06.204Z'}
+{'$oid': '5bbccff8ec3262c95553facd'},Kent State University ,L,True,True,Sophomore,19.0,Male,Computer Science,True,False,approved,False,True,False,['No pork. Good sir. '],False,{'$date': '2018-10-09T15:57:44.726Z'}
+{'$oid': '5bbcfe04ec3262c95553fad5'},Kent State University,L,True,True,Graduate,24.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-09T19:14:12.130Z'}
+{'$oid': '5bbd0647ec3262c95553fadb'},Case Western Reserve University,S,True,True,Sophomore,19.0,Female,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-09T19:49:27.372Z'}
+{'$oid': '5bbd4c29ec3262c95553fae1'},Kent State University,XXL,True,False,Sophomore,19.0,Male,Computer Science,True,False,approved,True,False,False,[],False,{'$date': '2018-10-10T00:47:37.175Z'}
+{'$oid': '5bbd528f129dd75e675da53d'},fdkjlsafjdsakfjdsaf,XXXL,True,True,Sophomore,21.0,Male,dfsafdsa,True,False,pending,False,False,False,['vegetarian'],False,{'$date': '2018-10-10T01:14:55.279Z'}
+{'$oid': '5bbdc689129dd75e675da545'},MONTGOMERY COLLEGE,S,True,True,Junior,23.0,Prefer Not to Say,COMPUTER SCIENCE,True,True,approved,True,False,False,[],False,{'$date': '2018-10-10T09:29:45.605Z'}
+{'$oid': '5bbe0698129dd75e675da54a'},Kent State University,M,True,False,Junior,21.0,Female,Animation and Game Design,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-10T14:03:04.169Z'}
+{'$oid': '5bbe36ad129dd75e675da550'},Kent State University,L,True,True,Senior,24.0,Female,Visual Communication Design,True,False,approved,True,True,False,[],False,{'$date': '2018-10-10T17:28:13.084Z'}
+{'$oid': '5bbe4051129dd75e675da555'},"Pennsylvania State University at Erie, the Behrend College",XL,True,True,Freshman,18.0,Male,Astrophysics,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-10T18:09:21.906Z'}
+{'$oid': '5bbe4ca9129dd75e675da558'},Andrews Osborne Academy,M,True,True,High School Sophomore,15.0,Male,Game design,True,False,approved,False,True,False,['Allergy with shell fishes'],False,{'$date': '2018-10-10T19:02:01.805Z'}
+{'$oid': '5bbe4fb4129dd75e675da55f'},University of Akron,L,True,False,Senior,21.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-10T19:15:00.444Z'}
+{'$oid': '5bbe7814129dd75e675da566'},The University of Akron,L,True,True,Senior,21.0,Male,Programming/Web Development,True,False,approved,True,True,False,[],False,{'$date': '2018-10-10T22:07:16.912Z'}
+{'$oid': '5bbe801e129dd75e675da56a'},"University of California, Irvine",L,True,False,Sophomore,19.0,Male,Computer Science,True,True,approved,True,False,False,['vegetarian'],False,{'$date': '2018-10-10T22:41:34.516Z'}
+{'$oid': '5bbe991b129dd75e675da56e'},northeastern university,M,True,False,Graduate,22.0,Female,computer system networking and telecommunication,True,True,approved,True,False,False,[],False,{'$date': '2018-10-11T00:28:11.129Z'}
+{'$oid': '5bbe9ed1129dd75e675da572'},kent state university,L,True,False,Senior,27.0,Male,computer science,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-11T00:52:33.477Z'}
+{'$oid': '5bbeaed2129dd75e675da576'},The University of Akron,M,True,False,Senior,23.0,Male,Computer Engineering,True,False,approved,True,True,False,[],False,{'$date': '2018-10-11T02:00:50.716Z'}
+{'$oid': '5bbeb094129dd75e675da57a'},Fullerton College,M,True,True,Sophomore,18.0,Male,Computer Science,True,True,approved,True,False,False,['vegetarian'],False,{'$date': '2018-10-11T02:08:20.346Z'}
+{'$oid': '5bbeb891129dd75e675da57e'},Case Western Reserve University,M,True,True,Junior,21.0,Male,Computer Science,True,False,approved,True,False,False,[],False,{'$date': '2018-10-11T02:42:25.778Z'}
+{'$oid': '5bbec113129dd75e675da582'},Collumbus College of Art and Design,M,True,False,Sophomore,33.0,Male,Industrial Design,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-11T03:18:43.855Z'}
+{'$oid': '5bbec4db129dd75e675da586'},The University of Akron,L,True,False,Senior,22.0,Male,Mathematics and Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-11T03:34:51.749Z'}
+{'$oid': '5bbf71b2129dd75e675da593'},Lorain County Community College,XXXL,True,True,Sophomore,20.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-11T15:52:18.570Z'}
+{'$oid': '5bbf7484129dd75e675da598'},The University of Akron,M,True,True,Junior,21.0,Prefer Not to Say,Computer Science ,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-11T16:04:20.127Z'}
+{'$oid': '5bbf8f7f129dd75e675da59d'},University of Southern California,XL,True,False,Junior,21.0,Male,Computer Science,True,True,approved,False,False,False,['vegan'],False,{'$date': '2018-10-11T17:59:27.435Z'}
+{'$oid': '5bbfad10129dd75e675da5a2'},Drexel University,L,True,False,Sophomore,20.0,Male,Computer Science ,True,True,approved,True,False,False,[],False,{'$date': '2018-10-11T20:05:36.553Z'}
+{'$oid': '5bbfb40c129dd75e675da5a9'},Kent State University,L,True,True,Freshman,19.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-11T20:35:24.175Z'}
+{'$oid': '5bbfb891129dd75e675da5ae'},University of Houston,M,True,False,Graduate,24.0,Male,Computer Science,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-10-11T20:54:41.962Z'}
+{'$oid': '5bbfbf53129dd75e675da5b2'},University of Toledo,M,True,True,Senior,21.0,Male,Computer Science and Engineering,True,False,approved,True,True,False,[],False,{'$date': '2018-10-11T21:23:31.371Z'}
+{'$oid': '5bbfbfee129dd75e675da5b8'},University Of Cincinnati,M,True,False,Graduate,23.0,Male,Computer Science,True,False,approved,True,False,False,['vegetarian'],False,{'$date': '2018-10-11T21:26:06.645Z'}
+{'$oid': '5bbfd528129dd75e675da5c3'},Andrews Osborne Academy,M,True,True,High School Junior,16.0,Male,,True,False,approved,True,True,False,[],False,{'$date': '2018-10-11T22:56:40.890Z'}
+{'$oid': '5bbfe89f129dd75e675da5c7'},Case Western Reserve University,L,True,False,Junior,20.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-12T00:19:43.359Z'}
+{'$oid': '5bbfe8ff129dd75e675da5c9'},Case Western Reserve University,L,True,True,Junior,19.0,Male,Computer Science,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-12T00:21:19.918Z'}
+{'$oid': '5bc002eaa18c12ab28cbb335'},Andrews Osborne Academy,M,True,True,Senior,17.0,Female,Computer Science ,True,False,approved,False,False,False,['vegetarian'],False,{'$date': '2018-10-12T02:11:54.981Z'}
+{'$oid': '5bc0040ca18c12ab28cbb339'},Andrews Osborne Academy ,M,True,True,Senior,18.0,Male,Computer engineering ,True,False,approved,True,False,False,[],False,{'$date': '2018-10-12T02:16:44.451Z'}
+{'$oid': '5bc008b1a18c12ab28cbb34f'},Andrews Osborne Academy,M,True,True,High School,18.0,Female,Nutrition,True,False,approved,True,False,False,['vegetarian'],False,{'$date': '2018-10-12T02:36:33.370Z'}
+{'$oid': '5bc01031a18c12ab28cbb351'},Andrews Osborne Academy,M,True,True,Junior,18.0,Male,none decided,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-12T03:08:33.280Z'}
+{'$oid': '5bc019aca18c12ab28cbb357'},Case Western Reserve University,L,True,True,Junior,20.0,Male,Computer Science ,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-12T03:49:00.360Z'}
+{'$oid': '5bc0801ca18c12ab28cbb35d'},Universidad Autonoma del Estado de Mexico,M,True,True,I finished my Bs in Computer Engineering,31.0,Female,BS Computer Engineering,True,True,approved,True,False,False,[],False,{'$date': '2018-10-12T11:06:04.933Z'}
+{'$oid': '5bc0c03ea18c12ab28cbb364'},Columbus College of Art and Design,L,True,False,Sophomore,19.0,Male,Industrial Design,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-12T15:39:42.766Z'}
+{'$oid': '5bc0c5bfa18c12ab28cbb368'},Oberlin College,S,True,True,Sophomore,20.0,Male,Computer Science,True,True,approved,True,True,False,[],False,{'$date': '2018-10-12T16:03:11.549Z'}
+{'$oid': '5bc0db59a18c12ab28cbb372'},University of Pittsburgh,XL,True,False,Senior,21.0,Prefer Not to Say,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-10-12T17:35:21.407Z'}
+{'$oid': '5bc10c23a18c12ab28cbb377'},Oberlin College,M,True,False,Sophomore,19.0,Male,Computer Science and Mathematics,True,False,approved,True,True,False,[],False,{'$date': '2018-10-12T21:03:31.495Z'}
+{'$oid': '5bc140a3a18c12ab28cbb37c'},The University of Akron,M,True,True,Freshman,18.0,Male,Computer Science/Cybersecurity,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-13T00:47:31.813Z'}
+{'$oid': '5bc1548f8b63342a4264fa29'},Andrews Osborne Academy,M,True,True,Junior,17.0,Male,"Computer Science, Mechanical Engineering, Double E",True,False,approved,True,True,False,['Nuts'],False,{'$date': '2018-10-13T02:12:31.255Z'}
+{'$oid': '5bc1577c8b63342a4264fa2d'},Columbus College of Art and Design,S,True,False,Junior,23.0,Female,Industrial Design,True,False,approved,True,False,False,[],False,{'$date': '2018-10-13T02:25:00.468Z'}
+{'$oid': '5bc157e68b63342a4264fa31'},University of Toronto,M,True,False,Senior,20.0,Male,Molecular Genetic & Microbiology,True,True,approved,False,False,False,['vegetarian'],False,{'$date': '2018-10-13T02:26:46.899Z'}
+{'$oid': '5bc164138b63342a4264fa3d'},Kent State University,M,True,True,Graduate,22.0,Male,Mechatronics,True,True,approved,False,False,False,['kosher'],False,{'$date': '2018-10-13T03:18:43.540Z'}
+{'$oid': '5bc166e48b63342a4264fa45'},Andrews Osborne Academy,XL,True,True,Junior,17.0,Male,Business,True,False,approved,False,False,False,['vegetarian'],False,{'$date': '2018-10-13T03:30:44.224Z'}
+{'$oid': '5bc16e668b63342a4264fa4b'},Kent State University,XXL,True,True,Sophomore,24.0,Male,"Computer Science, Physics",True,False,approved,True,True,False,[],False,{'$date': '2018-10-13T04:02:46.405Z'}
+{'$oid': '5bc176948b63342a4264fa50'},Oberlin College,M,True,True,Senior,21.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-13T04:37:40.549Z'}
+{'$oid': '5bc2462a8b63342a4264fa62'},Kenmore/Garfield Highschool,XXXL,True,False,High School,17.0,Male,Information Technology,True,False,approved,True,True,False,['vegetarian'],False,{'$date': '2018-10-13T19:23:22.439Z'}
+{'$oid': '5bc2638f8b63342a4264fa75'},Case Western Reserve University,S,True,False,Recent grad,22.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-13T21:28:47.947Z'}
+{'$oid': '5bc26bce8b63342a4264fa78'},Andrews Osborne Academy,L,True,True,High School,15.0,Male,computer science,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-13T22:03:58.272Z'}
+{'$oid': '5bc2a6358b63342a4264fa80'},University of Akron,S,True,True,Freshman,19.0,Male,Cybersecurity,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-14T02:13:09.199Z'}
+{'$oid': '5bc358d78b63342a4264fa88'},Stow-Munroe Falls High School ,L,True,True,Sophomore,14.0,Female, ,True,False,approved,True,True,False,[],False,{'$date': '2018-10-14T14:55:19.464Z'}
+{'$oid': '5bc36b8b8b63342a4264fa8c'},Kent State University,L,True,False,Senior,21.0,Male,Computer Science,True,False,approved,False,True,False,"[""I'm allergic to soy""]",False,{'$date': '2018-10-14T16:15:07.899Z'}
+{'$oid': '5bc36d3d8b63342a4264faa4'},St.Bonaventure University,XL,True,True,Freshman,18.0,Male,Cybersecurity,True,True,approved,True,True,False,[],False,{'$date': '2018-10-14T16:22:21.069Z'}
+{'$oid': '5bc3c0e88b63342a4264faaa'},University of Waterloo,L,True,False,Freshman,20.0,Male,Computer Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-14T22:19:20.740Z'}
+{'$oid': '5bc3d9e18b63342a4264faaf'},Kent State University,M,True,False,Senior,21.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-15T00:05:53.755Z'}
+{'$oid': '5bc3de548b63342a4264fab3'},Andrews Osborne Academy ,L,True,True,Sophomore,15.0,Male,Computer Science ,True,False,approved,True,True,False,[],False,{'$date': '2018-10-15T00:24:52.926Z'}
+{'$oid': '5bc3f44b8b63342a4264fab9'},Troy High school ,S,True,True,High School,16.0,Male,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-10-15T01:58:35.506Z'}
+{'$oid': '5bc42acc8b63342a4264fabf'},Kent State University,L,True,True,Sophomore,19.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-15T05:51:08.730Z'}
+{'$oid': '5bc4ac378b63342a4264fac6'},Kent State University,M,True,True,Sophomore,19.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-15T15:03:19.315Z'}
+{'$oid': '5bc4c8598b63342a4264facb'},Malone University,L,True,False,Graduate,23.0,Male,Psychology,True,False,approved,True,True,False,[],False,{'$date': '2018-10-15T17:03:21.077Z'}
+{'$oid': '5bc4d0208b63342a4264fadd'},Kent State University,L,True,False,Senior,24.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-15T17:36:32.949Z'}
+{'$oid': '5bc4e4b18b63342a4264fae2'},The University of Akron,M,True,False,Junior,21.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-15T19:04:17.901Z'}
+{'$oid': '5bc4eaee8b63342a4264fae8'},University of Akron,S,True,False,Senior,26.0,Female,Computer Information Systems,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-15T19:30:54.851Z'}
+{'$oid': '5bc4ef0c8b63342a4264faec'},Kent State University,L,True,False,This is my second year back after earning my first bachelor degree,28.0,Male,Computer Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-15T19:48:28.181Z'}
+{'$oid': '5bc510cc8b63342a4264faf3'},Perrysburg High School,L,True,False,High School,16.0,Male,High School,True,False,approved,True,True,False,[],False,{'$date': '2018-10-15T22:12:28.215Z'}
+{'$oid': '5bc51ec88b63342a4264faf7'},Kent State University,M,True,True,Sophomore,20.0,Male,Digital Science,True,False,approved,True,True,False,['gluten'],False,{'$date': '2018-10-15T23:12:08.975Z'}
+{'$oid': '5bc530b68b63342a4264fafd'},University of Akron,L,True,False,Recent Grad,22.0,Male,Applied Math,True,False,approved,False,True,False,['vegetarian'],False,{'$date': '2018-10-16T00:28:38.329Z'}
+{'$oid': '5bc532d68b63342a4264fb01'},University of Toledo,L,True,True,Sophomore,29.0,Male,Computer Science and Engineering,True,False,approved,True,True,False,[],False,{'$date': '2018-10-16T00:37:42.122Z'}
+{'$oid': '5bc549758b63342a4264fb07'},The University of Akron,L,True,False,Recent Graduate,22.0,Male,Computer Engineering,True,False,approved,True,True,False,['vegetarian'],False,{'$date': '2018-10-16T02:14:13.177Z'}
+{'$oid': '5bc54f368b63342a4264fb0a'},The University of Akron,L,True,False,Sophomore,19.0,Male,Computer Engineering,True,False,approved,True,True,False,[],False,{'$date': '2018-10-16T02:38:46.711Z'}
+{'$oid': '5bc5cfb88b63342a4264fb0d'},Wright State University,L,True,True,Recent Grad,22.0,Male,Computer Engineering,True,False,approved,True,True,False,[],False,{'$date': '2018-10-16T11:47:04.079Z'}
+{'$oid': '5bc604228b63342a4264fb14'},Kent State University,M,True,False,Junior,20.0,Male,Digital Sciences,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-16T15:30:42.331Z'}
+{'$oid': '5bc62b488b63342a4264fb3f'},Kent state university,M,True,True,Graduate,23.0,Male,Computer science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-16T18:17:44.035Z'}
+{'$oid': '5bc631a98b63342a4264fb43'},Case Western Reserve University ,M,True,False,Freshman,18.0,Male,CS,True,False,approved,False,False,False,[''],False,{'$date': '2018-10-16T18:44:57.207Z'}
+{'$oid': '5bc64c8f8b63342a4264fb49'},Kent State University,M,True,True,Senior,20.0,Female,Computer Animation and Game design,True,False,approved,True,True,False,[],False,{'$date': '2018-10-16T20:39:43.586Z'}
+{'$oid': '5bc656628b63342a4264fb4e'},Kent State University,M,True,True,Freshman,18.0,Male,Computer Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-16T21:21:38.429Z'}
+{'$oid': '5bc671be8b63342a4264fb55'},Kent State University,M,True,True,Freshman,18.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-16T23:18:22.522Z'}
+{'$oid': '5bc672d38b63342a4264fb59'},Kent State University,XL,True,True,Freshman,18.0,Male,Computer Science,True,False,approved,True,True,False,['Pineapple Allergy'],False,{'$date': '2018-10-16T23:22:59.289Z'}
+{'$oid': '5bc67f788b63342a4264fb64'},University of Akron Wayne College,M,True,True,Freshman,18.0,Female,HR Management,True,True,approved,True,True,False,[],False,{'$date': '2018-10-17T00:16:56.359Z'}
+{'$oid': '5bc680c28b63342a4264fb66'},Penn State Behrend,L,True,False,Freshman,19.0,Male,computer engineering,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-17T00:22:26.916Z'}
+{'$oid': '5bc6905c8b63342a4264fb76'},Kent State University,XL,True,True,Graduated with BS in May,25.0,Male,Computer Science,True,False,approved,True,False,False,[],False,{'$date': '2018-10-17T01:29:00.699Z'}
+{'$oid': '5bc691c08b63342a4264fb79'},University of Akron,M,True,False,Graduate,26.0,Male,Computer Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-17T01:34:56.661Z'}
+{'$oid': '5bc6b12c8b63342a4264fb9b'},Kent State University,XL,True,False,Graduate,28.0,Female,Computer Science,True,False,approved,False,False,False,['vegetarian'],False,{'$date': '2018-10-17T03:49:00.974Z'}
+{'$oid': '5bc777838b63342a4264fba0'},Kent State University,XL,True,True,Senior but junior in credits,21.0,Male,Computer Science,True,False,approved,False,False,False,['NONE'],False,{'$date': '2018-10-17T17:55:15.275Z'}
+{'$oid': '5bc7d45147c08d855e235d9e'},Eastern Gateway Community College,M,True,True,Freshman,19.0,Male,Business Management,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-18T00:31:13.990Z'}
+{'$oid': '5bc7d80f47c08d855e235da2'},Youngstown State University,XL,True,False,Senior,35.0,Male,computer science,True,True,approved,False,False,False,[''],False,{'$date': '2018-10-18T00:47:11.636Z'}
+{'$oid': '5bc7ee717954be196c99a5c4'},Kent State University,M,True,True,Senior,24.0,Male,Computer Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-18T02:22:41.384Z'}
+{'$oid': '5bc8701e7954be196c99a5c9'},Kent State University,L,True,True,Senior,26.0,Male,Digital Sciences,True,False,approved,True,False,False,[],False,{'$date': '2018-10-18T11:35:58.003Z'}
+{'$oid': '5bc87aed828d055f7258d96e'},The Ohio State University,L,True,True,Junior,22.0,Male,Aerospace Engineering,True,False,approved,True,True,False,[],False,{'$date': '2018-10-18T12:22:05.094Z'}
+{'$oid': '5bc8a66304cafa7a74ed7e0c'},Kent State University,M,True,True,Senior,30.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-18T15:27:31.159Z'}
+{'$oid': '5bc8b40c04cafa7a74ed7e10'},Kent State University,M,True,True,Senior,21.0,Male,Computer Science,True,False,approved,False,True,False,['vegetarian'],False,{'$date': '2018-10-18T16:25:48.815Z'}
+{'$oid': '5bc8bf2e8a7d977b75c89b96'},The University of Akron,M,True,True,Sophomore,20.0,Male,Computer Information Systems,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-18T17:13:18.269Z'}
+{'$oid': '5bc8c06f8a7d977b75c89b9a'},University of Akron,XL,True,False,Senior,25.0,Male,Mechanical Engineering,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-18T17:18:39.286Z'}
+{'$oid': '5bc8e0378a7d977b75c89ba0'},Andrews Osborne Academy,M,True,True,High School Sophomore,17.0,Male,Game Design,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-18T19:34:15.586Z'}
+{'$oid': '5bc8f43c3f1ff41977fc068e'},Kent State University,M,True,False,Junior,21.0,Male,Marketing,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-18T20:59:40.369Z'}
+{'$oid': '5bc93efe3f1ff41977fc069e'},Kent State University,M,True,True,Junior,16.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-19T02:18:38.788Z'}
+{'$oid': '5bc9f2010ba85c4002b304fb'},Kent State Stark,XL,True,False,Freshman,21.0,Male,Criminology and justice studies ,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-19T15:02:25.957Z'}
+{'$oid': '5bca053a0ba85c4002b304ff'},Kent State University,L,True,False,Sophomore,19.0,Male,Computer Design and Animation,True,False,approved,False,True,False,['None'],False,{'$date': '2018-10-19T16:24:26.368Z'}
+{'$oid': '5bca1d6a0ba85c4002b30507'},CHAMP,XXXL,True,True,Maker,31.0,Male,Electronic Engineering,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-19T18:07:38.441Z'}
+{'$oid': '5bca1f550ba85c4002b30509'},Kent State University,S,True,True,Sophomore,20.0,Male,Political Science ,True,False,approved,False,True,False,['Nuts '],False,{'$date': '2018-10-19T18:15:49.167Z'}
+{'$oid': '5bca212f0ba85c4002b3050f'},University Of Akron,M,True,False,Junior,21.0,Male,Mechanical Engineering,True,False,approved,True,True,False,[],False,{'$date': '2018-10-19T18:23:43.333Z'}
+{'$oid': '5bca33c60ba85c4002b30519'},Kent State University,S,True,True,Freshman,19.0,Female,Engineering Technology,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-19T19:43:02.832Z'}
+{'$oid': '5bca362f166b242b0fe3fc85'},Akron Alternative Academy ,XXXL,True,True,Senior,19.0,Battleship,Information Technology,True,False,pending,False,False,False,['kosher'],False,{'$date': '2018-10-19T19:53:19.861Z'}
+{'$oid': '5bca4754e61f872314806a27'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-19T21:06:28.462Z'}
+{'$oid': '5bca4a81e61f872314806a3f'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-19T21:20:01.079Z'}
+{'$oid': '5bca4a9fe61f872314806a41'},,,True,,,,,,True,False,approved,True,True,True,[],False,{'$date': '2018-10-19T21:20:31.679Z'}
+{'$oid': '5bca4b15e61f872314806a45'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-19T21:22:29.156Z'}
+{'$oid': '5bca5203e61f872314806a68'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-19T21:52:03.113Z'}
+{'$oid': '5bca5351e61f872314806a6c'},KENT STATE ,XL,True,True,Alum ,36.0,Female,UXD,True,False,pending,False,False,False,[''],False,{'$date': '2018-10-19T21:57:37.578Z'}
+{'$oid': '5bca5527e61f872314806a7c'},,,,,,,,,,,approved,True,False,True,[],False,{'$date': '2018-10-19T22:05:27.665Z'}
+{'$oid': '5bca5acbe61f872314806a9d'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-19T22:29:31.759Z'}
+{'$oid': '5bca5cf4e61f872314806aa7'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-19T22:38:44.724Z'}
+{'$oid': '5bca611fbfebd9501754944d'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-19T22:56:31.852Z'}
+{'$oid': '5bca619abfebd95017549450'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-19T22:58:34.635Z'}
+{'$oid': '5bca6ae8bfebd95017549473'},Kent State University,S,True,True,Graduate,22.0,Male,Computer Science,True,False,pending,False,False,False,[''],False,{'$date': '2018-10-19T23:38:16.535Z'}
+{'$oid': '5bca6f57bfebd9501754947a'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-19T23:57:11.884Z'}
+{'$oid': '5bca6fe5bfebd9501754947e'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-19T23:59:33.800Z'}
+{'$oid': '5bca7086bfebd95017549485'},,,True,,,,,,True,False,approved,True,True,True,[],False,{'$date': '2018-10-20T00:02:14.293Z'}
+{'$oid': '5bca720dbfebd9501754948a'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T00:08:45.556Z'}
+{'$oid': '5bca753cbfebd95017549491'},Kent State Univeristy,S,True,False,Sophomore,19.0,Female,Environmental Conservation Biology,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-20T00:22:20.673Z'}
+{'$oid': '5bca785ebfebd95017549498'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T00:35:42.772Z'}
+{'$oid': '5bca798abfebd950175494ab'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T00:40:42.751Z'}
+{'$oid': '5bca7bf7bfebd950175494dd'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T00:51:03.294Z'}
+{'$oid': '5bca7ccebfebd950175494e5'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T00:54:38.998Z'}
+{'$oid': '5bca80eabfebd950175494f0'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T01:12:10.431Z'}
+{'$oid': '5bca85c5bfebd950175494f5'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T01:32:53.080Z'}
+{'$oid': '5bca9149bfebd950175494fd'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T02:22:01.022Z'}
+{'$oid': '5bcaabb7bfebd9501754954c'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T04:14:47.547Z'}
+{'$oid': '5bcacfc6bfebd9501754956c'},Kent State University,L,True,True,Sophomore,21.0,Male,General Business,True,False,pending,False,False,False,[''],False,{'$date': '2018-10-20T06:48:38.565Z'}
+{'$oid': '5bcb1b41bfebd95017549572'},Kent state university,M,True,False,Graduate,22.0,Male,Computer science ,True,False,pending,False,True,False,['vegetarian'],False,{'$date': '2018-10-20T12:10:41.019Z'}
+{'$oid': '5bcb262dbfebd95017549576'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T12:57:17.706Z'}
+{'$oid': '5bcb50dcbfebd95017549579'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T15:59:24.086Z'}
+{'$oid': '5bcb511abfebd9501754957c'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T16:00:26.591Z'}
+{'$oid': '5bcb8d5285f610582ad00284'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T20:17:22.507Z'}
+{'$oid': '5bcb8da885f610582ad00286'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T20:18:48.402Z'}
+{'$oid': '5bcb900785f610582ad0028b'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T20:28:55.891Z'}
+{'$oid': '5bcb915085f610582ad0028e'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T20:34:24.926Z'}
+{'$oid': '5bcba14385f610582ad00293'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T21:42:27.252Z'}
+{'$oid': '5bcba46785f610582ad00295'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T21:55:51.519Z'}
+{'$oid': '5bcba4bb85f610582ad00297'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T21:57:15.898Z'}
+{'$oid': '5bcbb39b85f610582ad0029a'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T23:00:43.851Z'}
+{'$oid': '5bcbb3f185f610582ad0029d'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T23:02:09.145Z'}
+{'$oid': '5bcbb44385f610582ad002a2'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T23:03:31.929Z'}
+{'$oid': '5bcbb44c85f610582ad002a4'},Kent State University,L,True,True,Sophomore,24.0,Male,Mathematics,True,False,pending,False,True,False,[''],False,{'$date': '2018-10-20T23:03:40.110Z'}
+{'$oid': '5bcbb4a185f610582ad002a7'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T23:05:05.343Z'}
+{'$oid': '5bcbcd1185f610582ad002b2'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-21T00:49:21.142Z'}
+{'$oid': '5c0c21f4ecedcb231a030c0b'},University Of Cininnati,L,True,True,Junior,21.0,Male,Information Technology,True,True,pending,False,False,False,[''],False,{'$date': '2018-12-08T19:56:36.244Z'}
+{'$oid': '5c1404427f240c4326db47ea'},Bowling Green State University,L,True,True,Senior,22.0,Male,Computer science ,True,False,pending,False,False,False,[''],False,{'$date': '2018-12-14T19:28:02.255Z'}
+{'$oid': '5c94da74de7e2ac66d7bc722'},Kent State university ,M,True,True,High School,33.0,Female,Computer Science ,True,False,pending,False,False,False,[''],False,{'$date': '2019-03-22T12:52:04.939Z'}
