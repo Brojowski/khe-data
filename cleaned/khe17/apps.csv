@@ -1,7 +1,4 @@
 _id,school,shirt,demographic,first,year,age,gender,major,conduct,status,going,checked,door,dietary,probable,created
-{'$oid': '591c876408e255e26ec3ff7b'},American InterContinental University-Atlanta,L,True,True,Senior,31.0,male,Information Security,True,approved,False,False,False,[],False,{'$date': '2017-05-17T17:24:52.260Z'}
-{'$oid': '595cecb71d72ec5c2beb3f47'},Purdue University,M,True,False,Sophomore,18.0,female,Computer Science,True,approved,False,False,False,[],False,{'$date': '2017-07-05T13:42:15.351Z'}
-{'$oid': '597ba27e2a0ed0fa176fee37'},Libertyville High School,M,True,False,Junior,16.0,male,,True,approved,False,False,False,[],False,{'$date': '2017-07-28T20:45:50.388Z'}
 {'$oid': '5987eba107640e5b79aca382'},Kent State University,L,True,False,Senior,19.0,Male,Computer Science,True,pending,False,False,False,['Vegetarian'],False,{'$date': '2017-08-07T04:25:05.489Z'}
 {'$oid': '5988b64fb8ba51673122c120'},Kent State University at Kent,M,True,True,Sophomore,20.0,male,Computer Science,True,pending,False,False,False,[],False,{'$date': '2017-08-07T18:49:51.134Z'}
 {'$oid': '5988ba40b8ba51673122c126'},Kent State University,XXL,True,False,Senior,20.0,Male,Computer Science,True,approved,False,True,False,['Vegetarian'],True,{'$date': '2017-08-07T19:06:40.552Z'}
@@ -715,10 +712,3 @@ _id,school,shirt,demographic,first,year,age,gender,major,conduct,status,going,ch
 {'$oid': '59d95a59361316ed19cc9cac'},,,,,,,,,,approved,True,True,True,[],False,{'$date': '2017-10-07T22:51:05.116Z'}
 {'$oid': '59d95c0b361316ed19cc9caf'},,,,,,,,,,approved,True,True,True,[],False,{'$date': '2017-10-07T22:58:19.959Z'}
 {'$oid': '59d965bf361316ed19cc9cb2'},,,,,,,,,,approved,True,True,True,[],False,{'$date': '2017-10-07T23:39:43.267Z'}
-{'$oid': '59ecac534e9568ce41dd76e9'},GVSU,L,True,False,Junior,22.0,Male,Computer Science,True,pending,False,False,False,['Vegan'],False,{'$date': '2017-10-22T14:33:55.475Z'}
-{'$oid': '5a10ddd759a0ffa407bca267'},kent,M,True,True,Freshman,12.0,Male,cs,True,pending,False,False,False,"['Vegetarian,Vegan']",False,{'$date': '2017-11-19T01:26:47.462Z'}
-{'$oid': '5a680540b442816312bf7910'},konk stonk,XXL,True,False,Sophomore,69.0,all,compoopers,True,pending,False,False,False,['Kosher'],False,{'$date': '2018-01-24T04:02:08.880Z'}
-{'$oid': '5a680857b442816312bf7914'},asd ,S,True,False,Freshman,123.0,all,asd,True,pending,False,False,False,['Kosher'],False,{'$date': '2018-01-24T04:15:19.666Z'}
-{'$oid': '5a680b4fb442816312bf7918'},123,S,True,False,High Schooler,123.0,123,123,True,pending,False,False,False,['Vegan'],False,{'$date': '2018-01-24T04:27:59.378Z'}
-{'$oid': '5a681037b442816312bf791c'},123oijios,XL,True,False,Senior,32.0,Prefer Not to Say,asdioj,True,pending,False,False,False,['Gluten Free'],False,{'$date': '2018-01-24T04:48:55.188Z'}
-{'$oid': '5a68f959b442816312bf7920'},ass,S,True,False,Freshman,11.0,111,as,True,pending,False,False,False,['Vegetarian'],False,{'$date': '2018-01-24T21:23:37.508Z'}

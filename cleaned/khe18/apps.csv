@@ -292,7 +292,7 @@ _id,school,shirt,demographic,first,year,age,gender,major,conduct,travel,status,g
 {'$oid': '5bbbd3d58e6270d13ed3d530'},University Of Akron,XXL,True,False,Junior,28.0,Male,CIS Programming,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-08T22:01:57.594Z'}
 {'$oid': '5bbbd6548e6270d13ed3d532'},The University of Akron,L,True,False,Senior,21.0,Male,Electrical and Computer Engineering,True,False,approved,True,True,False,[],False,{'$date': '2018-10-08T22:12:36.774Z'}
 {'$oid': '5bbbd8498e6270d13ed3d536'},Pennsylvania State University,M,True,True,Freshman,18.0,Male,Computer Science,True,True,approved,True,False,False,[],False,{'$date': '2018-10-08T22:20:57.591Z'}
-{'$oid': '5bbbdfff8e6270d13ed3d53a'},Stow Munroe Falls High School,S,True,True,High School,15.0,Female,I'm in High School,True,False,approved,False,True,False,['vegetarian'],False,{'$date': '2018-10-08T22:53:51.294Z'}
+{'$oid': '5bbbdfff8e6270d13ed3d53a'},Stow Munroe Falls High School,S,True,True,High School,15.0,Female,Im in High School,True,False,approved,False,True,False,['vegetarian'],False,{'$date': '2018-10-08T22:53:51.294Z'}
 {'$oid': '5bbbed6e8e6270d13ed3d53e'},Penn State University,M,True,False,Sophomore,19.0,Male,Computer Engineering And Math,True,True,approved,False,False,False,['kosher'],False,{'$date': '2018-10-08T23:51:10.919Z'}
 {'$oid': '5bbbf26a8e6270d13ed3d542'},Firestone CLC,L,True,False,High School,15.0,Male,Student,True,False,approved,True,True,False,[],False,{'$date': '2018-10-09T00:12:26.229Z'}
 {'$oid': '5bbc08148e6270d13ed3d54f'},Kennesaw State University,M,True,True,Senior,22.0,Female,Computer Science,True,True,approved,False,False,False,[''],False,{'$date': '2018-10-09T01:44:52.388Z'}
@@ -358,7 +358,7 @@ _id,school,shirt,demographic,first,year,age,gender,major,conduct,travel,status,g
 {'$oid': '5bc26bce8b63342a4264fa78'},Andrews Osborne Academy,L,True,True,High School,15.0,Male,computer science,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-13T22:03:58.272Z'}
 {'$oid': '5bc2a6358b63342a4264fa80'},University of Akron,S,True,True,Freshman,19.0,Male,Cybersecurity,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-14T02:13:09.199Z'}
 {'$oid': '5bc358d78b63342a4264fa88'},Stow-Munroe Falls High School ,L,True,True,Sophomore,14.0,Female, ,True,False,approved,True,True,False,[],False,{'$date': '2018-10-14T14:55:19.464Z'}
-{'$oid': '5bc36b8b8b63342a4264fa8c'},Kent State University,L,True,False,Senior,21.0,Male,Computer Science,True,False,approved,False,True,False,"[""I'm allergic to soy""]",False,{'$date': '2018-10-14T16:15:07.899Z'}
+{'$oid': '5bc36b8b8b63342a4264fa8c'},Kent State University,L,True,False,Senior,21.0,Male,Computer Science,True,False,approved,False,True,False,"[""Im allergic to soy""]",False,{'$date': '2018-10-14T16:15:07.899Z'}
 {'$oid': '5bc36d3d8b63342a4264faa4'},St.Bonaventure University,XL,True,True,Freshman,18.0,Male,Cybersecurity,True,True,approved,True,True,False,[],False,{'$date': '2018-10-14T16:22:21.069Z'}
 {'$oid': '5bc3c0e88b63342a4264faaa'},University of Waterloo,L,True,False,Freshman,20.0,Male,Computer Science,True,False,approved,False,True,False,[''],False,{'$date': '2018-10-14T22:19:20.740Z'}
 {'$oid': '5bc3d9e18b63342a4264faaf'},Kent State University,M,True,False,Senior,21.0,Male,Computer Science,True,False,approved,True,True,False,[],False,{'$date': '2018-10-15T00:05:53.755Z'}
@@ -453,6 +453,3 @@ _id,school,shirt,demographic,first,year,age,gender,major,conduct,travel,status,g
 {'$oid': '5bcbb44c85f610582ad002a4'},Kent State University,L,True,True,Sophomore,24.0,Male,Mathematics,True,False,pending,False,True,False,[''],False,{'$date': '2018-10-20T23:03:40.110Z'}
 {'$oid': '5bcbb4a185f610582ad002a7'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-20T23:05:05.343Z'}
 {'$oid': '5bcbcd1185f610582ad002b2'},,,,,,,,,,,approved,True,True,True,[],False,{'$date': '2018-10-21T00:49:21.142Z'}
-{'$oid': '5c0c21f4ecedcb231a030c0b'},University Of Cininnati,L,True,True,Junior,21.0,Male,Information Technology,True,True,pending,False,False,False,[''],False,{'$date': '2018-12-08T19:56:36.244Z'}
-{'$oid': '5c1404427f240c4326db47ea'},Bowling Green State University,L,True,True,Senior,22.0,Male,Computer science ,True,False,pending,False,False,False,[''],False,{'$date': '2018-12-14T19:28:02.255Z'}
-{'$oid': '5c94da74de7e2ac66d7bc722'},Kent State university ,M,True,True,High School,33.0,Female,Computer Science ,True,False,pending,False,False,False,[''],False,{'$date': '2019-03-22T12:52:04.939Z'}

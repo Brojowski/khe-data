@@ -905,4 +905,3 @@ _id,school,shirt,demographic,first,year,age,gender,major,conduct,status,going,ch
 {'$oid': '57f98f50526edc4519e93468'},,,,,,,,,,approved,True,True,True,[],False,{'$date': '2016-10-09T00:29:04.549Z'},
 {'$oid': '57f9983e526edc4519e9346c'},,,,,,,,,,approved,True,True,True,[],False,{'$date': '2016-10-09T01:07:10.481Z'},
 {'$oid': '57f99912526edc4519e9346f'},,,,,,,,,,approved,True,True,True,[],False,{'$date': '2016-10-09T01:10:42.781Z'},
-{'$oid': '585e56575922435836287429'},The British University in Egypt,XL,True,False,Sophomore,19.0,male,Computer Science,True,pending,False,False,False,[],False,{'$date': '2016-12-24T11:04:55.224Z'},True
